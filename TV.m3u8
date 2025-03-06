@@ -1,0 +1,59 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://bostaflix.vercel.app/logos/btv_news.png", BTV NEWS
+https://app24.jagobd.com.bd/live-orgin/btvnational1.stream/live-orgin/btvnational1.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/Al-Jazeera.png", Al Jazeera
+http://kst.moonplex.net:8080/CH14/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/Sony_Max.png", Sony Max
+http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/t-sports.jpg", T Sports HD
+http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/star-jalsha.jpg", Star Jalsha
+http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg", Zee Bangla
+http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/Deepto-tv-live.png", Deepto TV
+http://kst.moonplex.net:8080/CH5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/channel9-hd.jpg", Channel 9
+http://kst.moonplex.net:8080/CH6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/Ekhon_Logo.png", Ekhon TV
+http://kst.moonplex.net:8080/CH7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/BBC-CBeebies.png", BBC CBeebies
+http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/Discovery-channel.png", Discovery
+http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/ARY-News.jpg", ARY News
+http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/BBC_Earth_logo.png", BBC Earth
+http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/duronto-tv.jpg", Duronto TV
+http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.ghuddi.tv/uploads/images/2024/08/01/thumbnails_0f1572d16b7c86d9279772338bc20951_goplay_bangla_tv_bd_1920_x_1080.png?w=1080&q=75", Bangla TV
+https://cdn.ghuddi.live/tvapp/Bangla_TV_BD/Transcoded/Bangla_TV_BD_1080p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://image.ghuddi.tv/uploads/images/2024/08/01/thumbnails_eac5034b1a589f589293aa6b92bcead1_goplay_bangla_tv_eu_1920_x_1080.png?w=1080&q=75", Bangla TV Europe
+https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/Transcoded/Bangla_TV_EU_1080p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://bostaflix.vercel.app/logos/t_sports.png", T Sports HD
+https://live.tsports.com/?bitrate=1500000&channel=tsports_live_1_1080&res=1080
