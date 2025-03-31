@@ -1,1 +1,595 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://bostaflix.vercel.app/logos/btv_news.png", BTV NEWS
+
+
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/Al-Jazeera.png", Al Jazeera
+http://kst.moonplex.net:8080/CH14/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/Sony_Max.png", Sony Max
+http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/t-sports.jpg", T Sports HD
+http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/star-jalsha.jpg", Star Jalsha
+http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg", Zee Bangla
+http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/Deepto-tv-live.png", Deepto TV
+http://kst.moonplex.net:8080/CH5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/channel9-hd.jpg", Channel 9
+http://kst.moonplex.net:8080/CH6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/Ekhon_Logo.png", Ekhon TV
+http://kst.moonplex.net:8080/CH7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/BBC-CBeebies.png", BBC CBeebies
+http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/Discovery-channel.png", Discovery
+http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/ARY-News.jpg", ARY News
+http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/BBC_Earth_logo.png", BBC Earth
+http://kst.moonplex.net:8080/CH11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://kst.moonplex.net/iptv/img/logo/duronto-tv.jpg", Duronto TV
+http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.ghuddi.tv/uploads/images/2024/08/01/thumbnails_0f1572d16b7c86d9279772338bc20951_goplay_bangla_tv_bd_1920_x_1080.png?w=1080&q=75", Bangla TV
+https://cdn.ghuddi.live/tvapp/Bangla_TV_BD/Transcoded/Bangla_TV_BD_1080p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://image.ghuddi.tv/uploads/images/2024/08/01/thumbnails_eac5034b1a589f589293aa6b92bcead1_goplay_bangla_tv_eu_1920_x_1080.png?w=1080&q=75", Bangla TV Europe
+https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/Transcoded/Bangla_TV_EU_1080p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://bostaflix.vercel.app/logos/t_sports.png", T Sports HD
+https://live.tsports.com/?bitrate=1500000&channel=tsports_live_1_1080&res=1080
+
+
+
+
+#EXTINF:-1, STAR JALSHA HD
+http://10.10.10.10/hls/STAR.JALSHA.HD.m3u8
+
+
+#EXTINF:-1, ZEE BANGLA HD
+http://10.10.10.10/hls/ZEE.BANGLA.HD.m3u8
+
+
+#EXTINF:-1, JALSHA MOVIES HD
+http://10.10.10.10/hls/JALSHA.MOVIES.HD.m3u8
+
+
+#EXTINF:-1, T SPORTS HD
+http://10.10.10.10/hls/T-SPORTS-HD.m3u8
+
+
+
+#EXTINF:-1, SONY AATH
+http://10.10.10.10/hls/SONY.AAT.m3u8
+
+
+#EXTINF:-1, NAGORIK TV HD
+http://10.10.10.10/hls/NAGORIK.TV.HD.m3u8
+
+
+
+#EXTINF:-1, GAZI TV HD
+http://10.10.10.10/hls/GAZI.TV.HD.m3u8
+
+
+#EXTINF:-1, DISCOVERY HD
+http://10.10.10.10/hls/DISCOVERY.HD.m3u8
+
+
+
+#EXTINF:-1, COLORS BANGLA HD
+http://10.10.10.10/hls/COLORS.BANGLA.HD.m3u8
+
+
+
+#EXTINF:-1, SUN BANGLA HD
+http://10.10.10.10/hls/SUN.BANGLA.HD.m3u8
+
+
+
+#EXTINF:-1, TRAVELXP HD
+http://10.10.10.10/hls/TRAVELXP.HD.m3u8
+
+
+
+#EXTINF:-1, DURANTA TV HD
+http://10.10.10.10/hls/DURANTA.TV.HD.m3u8
+
+
+
+#EXTINF:-1, ROMEDY NOW
+http://10.10.10.10/hls/ROMEDY.NOW.m3u8
+
+
+
+#EXTINF:-1, NATGEO HD
+http://10.10.10.10/hls/NATGEO.HD.m3u8
+
+
+
+
+#EXTINF:-1, TLC HD
+http://10.10.10.10/hls/TLC.HD.m3u8
+
+
+
+#EXTINF:-1, ANIMAL PLANET HD
+http://10.10.10.10/hls/ANIMAL.PLANET.HD.m3u8
+
+
+#EXTINF:-1, SONY PIX HD
+http://10.10.10.10/hls/SONY.PIX.HD.m3u8
+
+
+
+#EXTINF:-1, MNX HD
+http://10.10.10.10/hls/MNX.HD.m3u8
+
+
+
+
+#EXTINF:-1, MOVIES NOW HD
+http://10.10.10.10/hls/MOVIES.NOW.HD.m3u8
+
+
+
+#EXTINF:-1, BBC Earth HD
+http://10.10.10.10/hls/BBC.Earth.HD.m3u8
+
+
+
+#EXTINF:-1, MN PLUS HD
+http://10.10.10.10/hls/MN.PLUS.HD.m3u8
+
+
+
+#EXTINF:-1, DISCOVERY TURBO
+http://10.10.10.10/hls/DISCOVARY.TURBO.m3u8
+
+
+
+
+#EXTINF:-1, BBC NEWS
+http://10.10.10.10/hls/BBC.NEWS.m3u8
+
+
+
+
+#EXTINF:-1, CNN
+http://10.10.10.10/hls/CNN.m3u8
+
+
+
+#EXTINF:-1, AXN HD
+http://10.10.10.10/hls/AXN.HD.m3u8
+
+
+
+#EXTINF:-1, HBO HD
+http://10.10.10.10/hls/HBO.HD.m3u8
+
+
+
+#EXTINF:-1, HITZ MUSIC HD
+http://10.10.10.10/hls/HITZ.MUSIC.HD.m3u8
+
+
+
+#EXTINF:-1, SONY BBC EARTH HD
+http://10.10.10.10/hls/SONY.BBC.EARTH.HD.m3u8
+
+
+
+#EXTINF:-1, STAR MOVIES SEL HD
+http://10.10.10.10/hls/STAR.MOVIES.SEL.HD.m3u8
+
+
+
+#EXTINF:-1, AND FLIX HD
+http://10.10.10.10/hls/AND.FLIX.HD.m3u8
+
+
+
+#EXTINF:-1, ZEE CAFE HD
+http://10.10.10.10/hls/ZEE.CAFE.HD.m3u8
+
+
+
+
+#EXTINF:-1, COLOR INFINITY HD
+http://10.10.10.10/hls/COLOR.INFINITY.HD.m3u8
+
+
+
+#EXTINF:-1, ID HD
+http://10.10.10.10/hls/ID.HD.m3u8
+
+
+
+
+#EXTINF:-1, AND PRIVE HD
+http://10.10.10.10/hls/AND.PRIVE.HD.m3u8
+
+
+
+#EXTINF:-1, DISNEY INT HD
+http://10.10.10.10/hls/DISNEY.INT.HD.m3u8
+
+
+
+#EXTINF:-1, CNBC NEWS
+http://10.10.10.10/hls/CNBC.NEWS.m3u8
+
+
+
+
+#EXTINF:-1, BBC LIFESTYLE HD
+http://10.10.10.10/hls/BBC.LIFESTYLE.HD.m3u8
+
+
+
+
+#EXTINF:-1, LOVE NATURE HD
+http://10.10.10.10/hls/LOVE.NATURE.HD.m3u8
+
+
+
+#EXTINF:-1, ROCK ENT HD
+http://10.10.10.10/hls/ROCK.ENT.HD.m3u8
+
+
+
+#EXTINF:-1, HBO HITS
+http://10.10.10.10/hls/HBO.HITS.m3u8
+
+
+
+
+#EXTINF:-1, STAR GOLD HD
+http://10.10.10.10/hls/STAR.GOLD.HD.m3u8
+
+
+
+#EXTINF:-1, COLORS HD
+http://10.10.10.10/hls/COLORS.HD.m3u8
+
+
+
+
+#EXTINF:-1, COLORS CINEPLEX HD
+http://10.10.10.10/hls/COLORS.CINEPLEX.HD.m3u8
+
+
+
+
+#EXTINF:-1, SONY MAX HD
+http://10.10.10.10/hls/SONY.MAX.HD.m3u8
+
+
+
+
+
+#EXTINF:-1, STAR MOVIES HD
+http://10.10.10.10/hls/STAR.MOVIES.HD.m3u8
+
+
+
+
+#EXTINF:-1, SONY ENT HD
+http://10.10.10.10/hls/SONY.ENT.HD.m3u8
+
+
+
+
+#EXTINF:-1, ANT PICTURE HD
+http://10.10.10.10/hls/ANT.PICTURS.HD.m3u8
+
+
+
+
+
+#EXTINF:-1, ZEE TV HD
+http://10.10.10.10/hls/ZEE.TV.HD.m3u8
+
+
+
+
+
+#EXTINF:-1, ZEE CINEMA HD
+http://10.10.10.10/hls/ZEE.CINEMA.HD.m3u8
+
+
+
+
+#EXTINF:-1, STAR PLUS HD
+http://10.10.10.10/hls/STAR.PLUS.HD.m3u8
+
+
+
+
+#EXTINF:-1, NATGEO WILD HD
+http://10.10.10.10/hls/NATGEO.WILD.HD.m3u8
+
+
+
+
+
+#EXTINF:-1, ZOOM MUSIC
+http://10.10.10.10/hls/ZOOM.MUSIC.m3u8
+
+
+
+
+
+#EXTINF:-1, ZING MUSIC
+http://10.10.10.10/hls/ZING.MUSIC.m3u8
+
+
+
+
+#EXTINF:-1, STAR GOLD 2 HD
+http://10.10.10.10/hls/STAR.GOLD.2HD.m3u8
+
+
+
+
+#EXTINF:-1, XPLOR HD
+http://10.10.10.10/hls/XPLOR.HD.m3u8
+
+
+
+
+
+#EXTINF:-1, STAR GOLD SEL HD
+http://10.10.10.10/hls/STAR.GOLD.SEL.HD.m3u8
+
+
+
+
+
+#EXTINF:-1, HISTORY TV 18 HD
+http://10.10.10.10/hls/HISTORY.TV.18.HD.m3u8
+
+
+
+
+#EXTINF:-1, STAR BHARAT HD
+http://10.10.10.10/hls/STAR.BARAT.HD.m3u8
+
+
+
+
+
+#EXTINF:-1, STAR LIFE HD
+http://10.10.10.10/hls/STAR.LIFE.HD.m3u8
+
+
+
+
+#EXTINF:-1, UTV BINDASS
+http://10.10.10.10/hls/UTV.BINDASS.m3u8
+
+
+
+
+#EXTINF:-1, ZOOM MUSIC
+http://10.10.10.10/hls/ZOOM.MUSIC.m3u8
+
+
+
+#EXTINF:-1, MTV BEATS HD
+http://10.10.10.10/hls/MTV.BEATS.HD.m3u8
+
+
+
+
+#EXTINF:-1, UTSHOV GOLD
+http://10.10.10.10/hls/UTSHOV.GOLD.m3u8
+
+
+
+
+#EXTINF:-1, CINEMAX HD
+http://10.10.10.10/hls/CINEMAX.HD.m3u8
+
+
+
+
+
+#EXTINF:-1, MTV LIVE HD
+http://10.10.10.10/hls/MTV.LIVE.HD.m3u8
+
+
+
+
+
+#EXTINF:-1, STAR SPORTS 3
+http://10.10.10.10/hls/STAR-SPORTS.3.m3u8
+
+
+
+#EXTINF:-1, STAR SPORTS SEL 1
+http://10.10.10.10/hls/STAR.SPORTS-SEL1.HD.m3u8
+
+
+
+
+#EXTINF:-1, STAR SPORTS 1 HD
+http://10.10.10.10/hls/STAR.SPORTS1.HD.m3u8
+
+
+
+#EXTINF:-1, STAR SPORTS SEL 2 HD
+http://10.10.10.10/hls/STAR.SPORTS.SEL.2.HD.m3u8
+
+
+
+
+#EXTINF:-1, SONY 10
+http://10.10.10.10/hls/sony10.m3u8
+
+
+
+#EXTINF:-1, STAR SPORTS 2 HD
+http://10.10.10.10/hls/STAR.SPORTS2.HD.m3u8
+
+
+
+
+#EXTINF:-1, BEIN SPORTS 1
+http://10.10.10.10/hls/BEINSPORTS.1.m3u8
+
+
+
+
+#EXTINF:-1, EURO SPORTS HD
+http://10.10.10.10/hls/EUROSPORTS.HD.m3u8
+
+
+
+
+#EXTINF:-1, SONY SPORTS 5 HD
+http://10.10.10.10/hls/SONY-SPORTS.5HD.m3u8
+
+
+
+#EXTINF:-1, SONY SPORTS 3
+http://10.10.10.10/hls/SONY.SPORTS.3.m3u8
+
+
+
+
+#EXTINF:-1, SONY SPORTS 1 HD
+http://10.10.10.10/hls/SONY.SPORTS1.HD.m3u8
+
+
+
+
+
+#EXTINF:-1, BEIN SPORTS 2
+http://10.10.10.10/hls/BEINSPORTS.2.m3u8
+
+
+
+#EXTINF:-1, BEIN SPORTS 3
+http://10.10.10.10/hls/BEIN.SPORT.3.m3u8
+
+
+
+
+#EXTINF:-1, SUPER CRICKET HD
+http://10.10.10.10/hls/SUPER.CRICKET.HD.m3u8
+
+
+
+#EXTINF:-1, WILLOW HD
+http://10.10.10.10/hls/WILLOW.HD.m3u8
+
+
+
+
+#EXTINF:-1, http://10.10.10.10/hls/ASTRO.CRICKET.m3u8
+
+
+
+
+
+#EXTINF:-1, THE PAPARE HD
+http://10.10.10.10/hls/THE.PAPARE.HD.m3u8
+
+
+
+
+#EXTINF:-1, PREMER SPORTS HD
+http://10.10.10.10/hls/PREMER.SPORTS.HD.m3u8
+
+
+
+#EXTINF:-1, SONY SPORTS 1 HD
+http://10.10.10.10/hls/SONY.SPORTS.1HD.m3u8
+
+
+
+
+#EXTINF:-1, SKY SPORTS CRICKET
+http://10.10.10.10/hls/SKY.SPORTS.CRICKET.m3u8
+
+
+
+#EXTINF:-1, GOLF SPORTS
+http://10.10.10.10/hls/GOLF.SPORTS.m3u8
+
+
+
+
+#EXTINF:-1, CARTOON NETWORK HD
+http://10.10.10.10/hls/CARTON.NETWORK.HD.m3u8
+
+
+
+
+#EXTINF:-1, NICK
+http://10.10.10.10/hls/NICK.m3u8
+
+
+
+
+#EXTINF:-1, POGO
+http://10.10.10.10/hls/POGO.m3u8
+
+
+
+#EXTINF:-1, HUNGAMA
+http://10.10.10.10/hls/HUNGAMA.m3u8
+
+
+
+#EXTINF:-1, ETV BAL BHARAT
+http://10.10.10.10/hls/ETV.BAL.BHARAT.m3u8
+
+
+
+#EXTINF:-1, NICK JR
+http://10.10.10.10/hls/NICK.JR.m3u8
+
+
+
+#EXTINF:-1, DISCOVERY KIDS
+http://10.10.10.10/hls/DISCOVERY.KIDS.m3u8
+
+
+
+
+#EXTINF:-1, DISNEY JUNIOR
+http://10.10.10.10/hls/DISNEY.JUNIAR.m3u8
+
+
+
+#EXTINF:-1, SONIC
+http://10.10.10.10/hls/SONIC.m3u8
+
+
+
+
+#EXTINF:-1, BBC CBABES HD
+http://10.10.10.10/hls/BBC.CBABES.HD.m3u8
 
