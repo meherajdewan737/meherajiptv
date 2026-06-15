@@ -6,7 +6,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-id="169000" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="Entertainment",BTV
+https://flusonic.tplex.live/BTV_HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, Sangsad TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
 #EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
@@ -107,6 +112,92 @@ https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 tvg-id="246000" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-title="Infotainment",Delicious
 https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/star_jalsha.png" group-title="Indian Bangla",Star Jalsha HD
+http://198.195.239.50:8095/starJalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/zee_bangla.png" group-title="Indian Bangla",Zee Bangla HD
+http://198.195.239.50:8095/zeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/colors_bangla.png" group-title="Indian Bangla",Colors Bangla HD
+http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/23306.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Enter 10 Bangla" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/enter10_bangla.png" group-title="Indian Bangla",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/sony_aath.png" group-title="Indian Bangla",Sony Aath
+http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/sun_bangla.png" group-title="Indian Bangla",Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Akash Bangla" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/akash_bangla.png" group-title="Indian Bangla",Akash Aath
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies HD" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/jalsha_movies.png" group-title="Indian Bangla",Jalsha Movies HD
+http://198.195.239.50:8095/jalshaMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/zee_bangla_cinema.png" group-title="Indian Bangla",Zee Bangla Cinema
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/colors_bangla_cinema.png" group-title="Indian Bangla",Colors Bangla Cinema
+http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Khusbo Bangla" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/khusbo_bangla.png" group-title="Indian Bangla",Khusbo Bangla
+http://103.175.73.12:8080/live/375/375_0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/dhoom.png" group-title="Indian Bangla", Sangeet Bangla
+http://103.175.73.12:8080/live/379/379_0.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="Dhoom" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/dhoom.png" group-title="Indian Bangla", Dhoom
+http://103.175.73.12:8080/live/379/379_0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://raw.githubusercontent.com/manikbgh/Bongo-Flix/main/logos/ruposhi_bangla.png" group-title="Indian Bangla",Ruposhi Bangla
+http://103.175.73.12:8080/live/664/664_0.m3u8
+
+#EXTINF:-1, Sananda TV
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="SonyMaxHD.in" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/example_sony_max.png" group-title="Hindi",SONY MAX HD
+http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SonySetHD.in" tvg-name="Sony Entertainment Television HD" tvg-logo="https://i.imgur.com/example_sony_set.png" group-title="Hindi",SONY ENTERTAINMENT TELEVISION HD
+http://198.195.239.50:8095/sonyEntertainment/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="Star Plus HD" tvg-logo="https://i.imgur.com/example_star_plus.png" group-title="Hindi",STAR PLUS HD
+http://198.195.239.50:8095/starPlus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesHD.in" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/example_star_movies.png" group-title="Movies",STAR MOVIES HD
+http://198.195.239.50:8095/starMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ColorsHD.in" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/example_colors.png" group-title="Hindi",COLOR HD
+http://198.195.239.50:8095/colors/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplexHD.in" tvg-name="Colors Cineplex HD" tvg-logo="https://i.imgur.com/example_cineplex.png" group-title="Movies",COLOR CINEPLEX HD
+http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/9378.ts
+
+
+#EXTINF:-1,T Sports HD
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,PTV HD
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 
 
