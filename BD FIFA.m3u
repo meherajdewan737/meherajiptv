@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
 http://103.162.209.30:8080/tmp_hls/stream1/index.m3u8
-#EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy TV
+#EXTINF:-1 tvg-id="98000" tvg-name="SOMOY TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy TV
 http://103.162.209.30:8080/tmp_hls/stream2/index.m3u8
 
 #EXTINF:-1, BHOJPURI HD
