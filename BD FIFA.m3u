@@ -12,3 +12,5 @@ http://103.162.209.30:8080/tmp_hls/stream6/index.m3u8
 #EXTINF:-1, FIFA BANGLA
 http://103.162.209.30:8080/tmp_hls/stream5/index.m3u8
 
+#EXTINF:-1, T SPORTS HD
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
