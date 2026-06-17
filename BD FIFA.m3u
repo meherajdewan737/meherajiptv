@@ -6,6 +6,9 @@ http://103.162.209.30:8080/tmp_hls/stream2/index.m3u8
 #EXTINF:-1, BHOJPURI HD
 http://103.162.209.30:8080/tmp_hls/stream7/index.m3u8
 
+#EXTINF:-1, SANGEET BANGLA
+http://103.175.73.12:8080/live/379/379_0.m3u8
+
 #EXTINF:-1, A SPORTS HD
 http://103.162.209.30:8080/tmp_hls/stream6/index.m3u8
 
