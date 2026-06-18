@@ -27,12 +27,11 @@ http://114.130.57.224:8080/A-sports-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan
 #EXTINF:-1, FIFA BANGLA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
 
-#EXTINF:-1, FIFA+
+#EXTINF:-1, FIFA+ FHD
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/787ef4f3-f4ae-46e0-8414-7d081d27ec6e/2.m3u8
 
 #EXTINF:-1, T SPORTS HD
-http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
-#http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, GO LIVE 4K
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
@@ -40,10 +39,10 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1, D SPORTS 4K
 https://m.mxonlive.xyz/nexusstream/ch08.m3u8
 
-#EXTINF:-1, DAZN TV
+#EXTINF:-1, DAZN TV 4K
 https://m.mxonlive.xyz/nexusstream/ch07.m3u8
 
-#EXTINF:-1, BEIN SPORTS 1 HD
+#EXTINF:-1, BEIN SPORTS 1 4K
 https://m.mxonlive.xyz/nexusstream/ch10.m3u8
 
 #EXTINF:-1, ZEE CINEMA HD
