@@ -1,5 +1,12 @@
+#EXTM3U
+
+
+#EXTINF:-1, CAZE TV 4K YOUTUBE
+https://stream.starplex.live/Caze_TV/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
-http://103.162.209.30:8080/tmp_hls/stream1/index.m3u8
+https://flusonic.tplex.live/BTV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
 http://103.162.209.30:8080/tmp_hls/stream2/index.m3u8
 
