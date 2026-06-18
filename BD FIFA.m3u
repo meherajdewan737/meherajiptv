@@ -1,14 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
+https://flusonic.tplex.live/BTV_HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV 2
+https://stream.starplex.live/BTV_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, CAZE TV 4K YOUTUBE
 https://stream.starplex.live/Caze_TV/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
-https://flusonic.tplex.live/BTV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="98000" tvg-name="SOMOY TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
-http://103.162.209.30:8080/tmp_hls/stream2/index.m3u8
+
+#EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BHOJPURI HD
 http://103.162.209.30:8080/tmp_hls/stream7/index.m3u8
@@ -17,16 +22,29 @@ http://103.162.209.30:8080/tmp_hls/stream7/index.m3u8
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 #EXTINF:-1, A SPORTS HD
-http://103.162.209.30:8080/tmp_hls/stream6/index.m3u8
+http://114.130.57.224:8080/A-sports-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1, FIFA BANGLA
-http://103.162.209.30:8080/tmp_hls/stream5/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+
+#EXTINF:-1, FIFA+
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/787ef4f3-f4ae-46e0-8414-7d081d27ec6e/2.m3u8
 
 #EXTINF:-1, T SPORTS HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
+#http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, PTV HD
-http://103.162.209.30:8080/tmp_hls/stream4/index.m3u8
+#EXTINF:-1, GO LIVE 4K
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 
-#EXTINF:-1, UNITE8 SPORTS 1 HD
-http://103.162.209.30:8080/tmp_hls/stream3/index.m3u8
+#EXTINF:-1, D SPORTS 4K
+https://m.mxonlive.xyz/nexusstream/ch08.m3u8
+
+#EXTINF:-1, DAZN TV
+https://m.mxonlive.xyz/nexusstream/ch07.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1 HD
+https://m.mxonlive.xyz/nexusstream/ch10.m3u8
+
+#EXTINF:-1, ZEE CINEMA HD
+https://m.mxonlive.xyz/nexusstream/ch09.m3u8
