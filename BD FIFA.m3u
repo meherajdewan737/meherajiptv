@@ -7,7 +7,7 @@ https://stream.starplex.live/Caze_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
 https://flusonic.tplex.live/BTV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
+#EXTINF:-1 tvg-id="98000" tvg-name="SOMOY TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
 http://103.162.209.30:8080/tmp_hls/stream2/index.m3u8
 
 #EXTINF:-1, BHOJPURI HD
@@ -23,8 +23,7 @@ http://103.162.209.30:8080/tmp_hls/stream6/index.m3u8
 http://103.162.209.30:8080/tmp_hls/stream5/index.m3u8
 
 #EXTINF:-1, T SPORTS HD
-http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
-#http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, PTV HD
 http://103.162.209.30:8080/tmp_hls/stream4/index.m3u8
