@@ -1,40 +1,57 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV HD
-https://flusonic.tplex.live/1.1_BTV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
+https://stream.starplex.live/1.1_BTV_HD/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1, CAZE TV 4K YOUTUBE
-https://flusonic.tplex.live/Caze_TV/tracks-v1a1/mono.m3u8
+https://stream.starplex.live/Caze_TV/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="98000" tvg-name="SOMOY TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
-http://103.14.151.101:8000/play/a02s/index.m3u8
-#https://flusonic.tplex.live/1.2Somoy_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
+https://stream.starplex.live/1.2Somoy_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, UNITE8 SPORTS 1 HD
-https://flusonic.tplex.live/1.3_Unite8_Sports/tracks-v1a1/mono.m3u8
+https://stream.starplex.live/1.3_Unite8_Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, PTV SPORTS HD
-https://flusonic.tplex.live/1.4_PTV_Sports_HD/tracks-v1a1/mono.m3u8
+https://stream.starplex.live/1.4_PTV_Sports_HD/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1, BHOJPURI HD
-https://flusonic.tplex.live/1.7_Sangeet_Vojpuri/tracks-v1a1/mono.m3u8
+https://stream.starplex.live/1.7_Sangeet_Vojpuri/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SANGEET BANGLA
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 #EXTINF:-1, A SPORTS HD
-https://flusonic.tplex.live/1.6_A_Sports_HD/tracks-v1a1/mono.m3u8
+https://stream.starplex.live/1.6_A_Sports_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, FIFA BANGLA
-https://flusonic.tplex.live/1.5_Zee_Bangla_Sonar/tracks-v1a1/mono.m3u8
+https://stream.starplex.live/1.5_Zee_Bangla_Sonar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, FIFA+
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/787ef4f3-f4ae-46e0-8414-7d081d27ec6e/2.m3u8
 
+#EXTINF:-1, T SPORTS HD
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, GO LIVE 4K
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+
+#EXTINF:-1, D SPORTS 4K
+https://m.mxonlive.xyz/nexusstream/ch08.m3u8
+
+#EXTINF:-1, DAZN TV
+https://m.mxonlive.xyz/nexusstream/ch07.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1 HD
+https://m.mxonlive.xyz/nexusstream/ch10.m3u8
+
+#EXTINF:-1, ZEE CINEMA HD
+https://m.mxonlive.xyz/nexusstream/ch09.m3u8
 #EXTINF:-1, MAT4 FIFA
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
