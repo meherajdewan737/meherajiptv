@@ -8,8 +8,9 @@ https://flusonic.tplex.live/Caze_TV/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
-https://flusonic.tplex.live/1.2Somoy_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="98000" tvg-name="SOMOY TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
+http://103.14.151.101:8000/play/a02s/index.m3u8
+#https://flusonic.tplex.live/1.2Somoy_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, UNITE8 SPORTS 1 HD
 https://flusonic.tplex.live/1.3_Unite8_Sports/tracks-v1a1/mono.m3u8
