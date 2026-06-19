@@ -34,8 +34,8 @@ https://flusonic.tplex.live/1.5_Zee_Bangla_Sonar/tracks-v1a1/mono.m3u8
 #EXTINF:-1, FIFA+
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/787ef4f3-f4ae-46e0-8414-7d081d27ec6e/2.m3u8
 
-#EXTINF:-1, T SPORTS HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MAT4 FIFA
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 #EXTINF:-1, GO LIVE 4K
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
