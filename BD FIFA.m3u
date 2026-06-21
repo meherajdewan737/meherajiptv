@@ -36,7 +36,8 @@ https://stream.starplex.live/1.5_Zee_Bangla_Sonar/tracks-v1a1/mono.m3u8
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/787ef4f3-f4ae-46e0-8414-7d081d27ec6e/2.m3u8
 
 #EXTINF:-1, T SPORTS HD
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/t-sports-hd4k/video.m3u8
+#http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, GO LIVE 4K
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
