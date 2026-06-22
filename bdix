@@ -1,1 +1,15 @@
+#EXTM3U
+#EXTINF:-1, Toffee Paid Server 1
+https://cdn-tt.pages.dev/ch1.m3u8
 
+#EXTINF:-1, Toffee Paid Server 2
+https://cdn-tt.pages.dev/ch2.m3u8
+
+#EXTINF:-1, Toffee Paid Server 3
+https://cdn-tt.pages.dev/ch3.m3u8
+
+#EXTINF:-1, Toffee Paid Server 4
+https://cdn-tt.pages.dev/ch4.m3u8
+
+#EXTINF:-1, Toffee Paid Server 5
+https://cdn-tt.pages.dev/ch5.m3u8
