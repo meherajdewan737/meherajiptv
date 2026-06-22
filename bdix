@@ -1,0 +1,107 @@
+export default {
+  async fetch(request, env, ctx) {
+    const userAgent = request.headers.get('user-agent') || '';
+    
+    // if (userAgent.includes('Clash') || userAgent.includes('Ficlash') || userAgent.includes('Mihomo') || userAgent.includes('okhttp')) {
+      
+      // 
+      const configText = `port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+allow-lan: true
+mode: rule
+log-level: info
+ipv6: false
+external-controller: 127.0.0.1:9090
+
+dns:
+  enable: true
+  ipv6: false
+  listen: 0.0.0.0:53
+  enhanced-mode: redir-host
+  nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+    - 9.9.9.9
+
+proxies:
+  - name: "HTTP-Proxy-01"
+    type: http
+    server: 144.48.108.122
+    port: 5452
+
+  - name: "HTTP-Proxy-02"
+    type: http
+    server: 144.48.108.121
+    port: 5452
+
+  - name: "HTTP-Proxy-03"
+    type: http
+    server: 103.172.14.1
+    port: 5452
+
+  - name: "HTTP-Proxy-04"
+    type: http
+    server: 103.172.14.5
+    port: 5452
+
+  - name: "HTTP-Proxy-05"
+    type: http
+    server: 203.76.108.222
+    port: 27271
+
+proxy-groups:
+  - name: 🚀 Proxy
+    type: select
+    proxies:
+      - ⚖️ Load Balance
+      - ⚡ Auto Select
+      - DIRECT
+
+  - name: ⚖️ Load Balance
+    type: load-balance
+    strategy: consistent-hashing
+    url: http://www.gstatic.com/generate_204
+    interval: 150
+    proxies:
+      - HTTP-Proxy-01
+      - HTTP-Proxy-02
+      - HTTP-Proxy-03
+      - HTTP-Proxy-04
+      - HTTP-Proxy-05
+
+  - name: ⚡ Auto Select
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 150
+    tolerance: 50
+    proxies:
+      - HTTP-Proxy-01
+      - HTTP-Proxy-02
+      - HTTP-Proxy-03
+      - HTTP-Proxy-04
+      - HTTP-Proxy-05
+
+rules:
+  - GEOIP,LAN,DIRECT
+  - DOMAIN-KEYWORD,local,DIRECT
+  - DOMAIN-KEYWORD,adserver,REJECT
+  - DOMAIN-KEYWORD,analytics,REJECT
+  - DOMAIN-SUFFIX,google.com,🚀 Proxy
+  - DOMAIN-SUFFIX,youtube.com,🚀 Proxy
+  - DOMAIN-SUFFIX,facebook.com,🚀 Proxy
+  - DOMAIN-SUFFIX,instagram.com,🚀 Proxy
+  - DOMAIN-SUFFIX,twitter.com,🚀 Proxy
+  - DOMAIN-SUFFIX,netflix.com,🚀 Proxy
+  - DOMAIN-KEYWORD,telegram,🚀 Proxy
+  - MATCH,🚀 Proxy`;
+      
+      return new Response(configText, {
+        headers: { 'content-type': 'text/yaml; charset=utf-8' },
+      });
+    }
+
+   //return new Response('404 Not Found - এই পেজটি অস্তিত্বহীন।', { status: 404 });
+  },
+};
