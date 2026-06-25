@@ -14,23 +14,6 @@ https://cdn-tt.pages.dev/ch4.m3u8
 #EXTINF:-1, Toffee Paid Server 5
 https://cdn-tt.pages.dev/ch5.m3u8
 
-#EXTM3U
-
-#EXTINF:-1, Toffee Paid Server 1
-https://cdn-tt.pages.dev/ch1.m3u8
-
-#EXTINF:-1, Toffee Paid Server 2
-https://cdn-tt.pages.dev/ch2.m3u8
-
-#EXTINF:-1, Toffee Paid Server 3
-https://cdn-tt.pages.dev/ch3.m3u8
-
-#EXTINF:-1, Toffee Paid Server 4
-https://cdn-tt.pages.dev/ch4.m3u8
-
-#EXTINF:-1, Toffee Paid Server 5
-https://cdn-tt.pages.dev/ch5.m3u8
-
 
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
 http://198.195.239.50:8095/btv/video.m3u8
@@ -44,7 +27,7 @@ https://stream.starplex.live/Caze_TV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="98000" tvg-name="SOMOY TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
-http://103.14.151.101:8000/play/a02s/index.m3u8
+https://stream.starplex.live/1.2Somoy_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, UNITE8 SPORTS 1 HD
 http://198.195.239.50:8095/unt-s/video.m3u8
@@ -64,7 +47,7 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 https://stream.starplex.live/1.6_A_Sports_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, FIFA BANGLA
-https://stream.starplex.live/1.5_Zee_Bangla_Sonar/tracks-v1a1/mono.m3u8
+#https://stream.starplex.live/1.5_Zee_Bangla_Sonar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, FIFA+
 #https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/787ef4f3-f4ae-46e0-8414-7d081d27ec6e/2.m3u8
