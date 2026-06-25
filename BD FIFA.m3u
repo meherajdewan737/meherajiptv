@@ -16,96 +16,74 @@ https://cdn-tt.pages.dev/ch5.m3u8
 
 #EXTM3U
 
-#   --- BANGLA ENTERTAINMENT & GENERAL ---
-#EXTINF:-1 tvg-name="Asian TV" group-title="Bangla Entertainment",Asian TV
-https://stream.starplex.live/Asian_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Desh TV" group-title="Bangla Entertainment",Desh TV
-https://stream.starplex.live/Desh_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Enter10 Bangla" group-title="Bangla Entertainment",Enter10 Bangla
-https://stream.starplex.live/Enter10Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla Sonar" group-title="Bangla Entertainment",Zee Bangla Sonar
-https://stream.starplex.live/1.5_Zee_Bangla_Sonar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="BTV HD" group-title="Bangla Entertainment",BTV HD
-https://stream.starplex.live/1.1_BTV_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Deepto TV" group-title="Bangla Entertainment",Deepto TV
-https://stream.starplex.live/Deepto_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="Bangla Entertainment",NTV
-https://stream.starplex.live/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Maasranga TV" group-title="Bangla Entertainment",Maasranga TV
-https://stream.starplex.live/Maasranga_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Akash Aath" group-title="Bangla Entertainment",Akash Aath
-https://stream.starplex.live/Akash_Aath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Channel I" group-title="Bangla Entertainment",Channel I
-https://stream.starplex.live/Channel_I/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Jalsha HD" group-title="Bangla Entertainment",Star Jalsha HD
-https://stream.starplex.live/Star_Jalsha_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Toffee Paid Server 1
+https://cdn-tt.pages.dev/ch1.m3u8
 
-#   --- NEWS CHANNELS ---
-#EXTINF:-1 tvg-name="Star News" group-title="News",Star News
-https://stream.starplex.live/Star_News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DBC News" group-title="News",DBC News
-https://stream.starplex.live/DBC_News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="News 24 HD" group-title="News",News 24 HD
-https://stream.starplex.live/News_24_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Channel 24" group-title="News",Channel 24
-https://stream.starplex.live/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Ekattor TV" group-title="News",Ekattor TV
-https://stream.starplex.live/Ekattor_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ATN News" group-title="News",ATN News
-https://stream.starplex.live/ATN_News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Jamuna TV" group-title="News",Jamuna TV
-https://stream.starplex.live/Jamuna_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Independent TV" group-title="News",Independent TV
-https://stream.starplex.live/Indipendent_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Somoy TV" group-title="News",Somoy TV
-https://stream.starplex.live/1.2Somoy_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Toffee Paid Server 2
+https://cdn-tt.pages.dev/ch2.m3u8
 
-#   --- SPORTS ---
-#EXTINF:-1 tvg-name="A Sports HD" group-title="Sports",A Sports HD
-https://stream.starplex.live/1.6_A_Sports_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Unite8 Sports" group-title="Sports",Unite8 Sports
-https://stream.starplex.live/1.3_Unite8_Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Sports",Star Sports 1 HD
-https://stream.starplex.live/Star_Sports_1_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TSports HD" group-title="Sports",TSports HD
-https://stream.starplex.live/TSports_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Sports 2 HD (Alt 1)" group-title="Sports",Star Sports 2 HD (Alt 1)
-https://stream.starplex.live/Star_Sports_2_HD/tracks-v1a1/mono.m3u8?1
-#EXTINF:-1 tvg-name="Star Sports 2 HD (Alt 2)" group-title="Sports",Star Sports 2 HD (Alt 2)
-https://stream.starplex.live/Star_Sports_2_HD/tracks-v1a1/mono.m3u8?2
-#EXTINF:-1 tvg-name="Star Sports 2 HD" group-title="Sports",Star Sports 2 HD
-https://stream.starplex.live/Star_Sports_2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="PTV Sports HD" group-title="Sports",PTV Sports HD
+#EXTINF:-1, Toffee Paid Server 3
+https://cdn-tt.pages.dev/ch3.m3u8
+
+#EXTINF:-1, Toffee Paid Server 4
+https://cdn-tt.pages.dev/ch4.m3u8
+
+#EXTINF:-1, Toffee Paid Server 5
+https://cdn-tt.pages.dev/ch5.m3u8
+
+
+#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
+http://198.195.239.50:8095/btv/video.m3u8
+
+
+
+
+#EXTINF:-1, CAZE TV 4K YOUTUBE
+https://stream.starplex.live/Caze_TV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="98000" tvg-name="SOMOY TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
+http://103.14.151.101:8000/play/a02s/index.m3u8
+
+#EXTINF:-1, UNITE8 SPORTS 1 HD
+http://198.195.239.50:8095/unt-s/video.m3u8
+
+#EXTINF:-1, PTV SPORTS HD
 https://stream.starplex.live/1.4_PTV_Sports_HD/tracks-v1a1/mono.m3u8
 
-#   --- MOVIES & ENTERTAINMENT (HINDI/BOJPURI/OTHERS) ---
-#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Movies & Entertainment",Bhojpuri Cinema
-https://stream.starplex.live/Bhojpuri_Cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Caze TV" group-title="Movies & Entertainment",Caze TV
-https://stream.starplex.live/Caze_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sangeet Bhojpuri" group-title="Movies & Entertainment",Sangeet Bhojpuri
+
+
+#EXTINF:-1, BHOJPURI HD
 https://stream.starplex.live/1.7_Sangeet_Vojpuri/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Colors Cineplex" group-title="Movies & Entertainment",Colors Cineplex
-https://stream.starplex.live/1.8_Colors_Cinplex/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="SRK TV" group-title="Movies & Entertainment",SRK TV
-https://stream.starplex.live/SRK_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Movie Bangla" group-title="Movies & Entertainment",Movie Bangla
-https://stream.starplex.live/Movie_Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Bangla Plus HD" group-title="Movies & Entertainment",Bangla Plus HD
-https://stream.starplex.live/Bangla_Plus_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sony MAX HD" group-title="Movies & Entertainment",Sony MAX HD
-https://stream.starplex.live/Sony_MAX_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="And Pictures HD" group-title="Movies & Entertainment",And Pictures HD
-https://stream.starplex.live/And_Picture_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Movies & Entertainment",Zee Cinema HD
-https://stream.starplex.live/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
 
-#   --- MUSIC ---
-#EXTINF:-1 tvg-name="9XM" group-title="Music",9XM
-https://stream.starplex.live/9XM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="8X Music" group-title="Music",8X Music
-https://stream.starplex.live/8X_Music/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SANGEET BANGLA
+http://103.175.73.12:8080/live/379/379_0.m3u8
 
-#   --- DOCUMENTARY ---
-#EXTINF:-1 tvg-name="Animal Planet" group-title="Documentary",Animal Planet
-https://stream.starplex.live/Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1, A SPORTS HD
+https://stream.starplex.live/1.6_A_Sports_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, FIFA BANGLA
+https://stream.starplex.live/1.5_Zee_Bangla_Sonar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, FIFA+
+#https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/787ef4f3-f4ae-46e0-8414-7d081d27ec6e/2.m3u8
+
+#EXTINF:-1, T SPORTS HD
+#http://198.195.239.50:8095/t-sports-hd4k/video.m3u8
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, GO LIVE 4K
+#https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+
+#EXTINF:-1, D SPORTS 4K
+https://m.mxonlive.xyz/nexusstream/ch08.m3u8
+
+#EXTINF:-1, DAZN TV
+https://m.mxonlive.xyz/nexusstream/ch07.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1 HD
+https://m.mxonlive.xyz/nexusstream/ch10.m3u8
+
+#EXTINF:-1, MAT4 4K 
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
