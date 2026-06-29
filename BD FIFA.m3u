@@ -1,58 +1,133 @@
 #EXTM3U
-#EXTINF:-1, Toffee Paid Server 1
-https://cdn-tt.pages.dev/ch1.m3u8
 
-#EXTINF:-1, Toffee Paid Server 2
-https://cdn-tt.pages.dev/ch2.m3u8
+# --- SPORTS ---
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/unite8sportshd1.png",Unite8 Sports
+https://stream.starplex.live/1.3_Unite8_Sports/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/ptvsportshd.png",PTV Sports
+https://stream.starplex.live/1.4_PTV_Sports_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/asportshd.png",A Sports HD
+https://stream.starplex.live/1.6_A_Sports_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/cazetv.png",Caze TV Sports
+https://stream.starplex.live/Caze_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/starsports1hd.png",Star Sports 1 HD
+https://stream.starplex.live/Star_Sports_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/starsports2hd.png",Star Sports 2 HD
+https://stream.starplex.live/Star_Sports_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/sonysportsten1.png",Sony Sports Ten 1
+https://stream.starplex.live/Sony_Sports_Ten1/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/sonysportsten2.png",Sony Sports Ten 2
+https://stream.starplex.live/Sony_Sports_Ten2/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/tsports.png",T Sports
+https://stream.starplex.live/TSports_HD/index.m3u8
 
-#EXTINF:-1, Toffee Paid Server 3
-https://cdn-tt.pages.dev/ch3.m3u8
+# --- ENTERTAINMENT ---
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/btvhd.png",BTV HD
+https://stream.starplex.live/1.1_BTV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/somoytv.png",Somoy TV
+https://stream.starplex.live/1.2Somoy_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/zeebanglasonar.png",Zee Bangla Sonar
+https://stream.starplex.live/1.5_Zee_Bangla_Sonar/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/starjalshahd.png",Star Jalsha Hd
+https://stream.starplex.live/Star_Jalsha_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/zeebangla.png",Zee Bangla
+https://stream.starplex.live/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/colorsbanglahd.png",Colors Bangla HD
+https://stream.starplex.live/Colors_Bangla_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/sonyaath.png",Sony Aath
+https://stream.starplex.live/Sony_AATH/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/enter10bangla.png",Enter10_Bangla
+https://stream.starplex.live/Enter10Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/zeetv.png",Zee TV
+https://stream.starplex.live/Zee_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/starplushd.png",Star Plus HD
+https://stream.starplex.live/Star_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/sonyentertainment.png",Sony Entertainment
+https://stream.starplex.live/Sony_Entertaintment/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/ntv.png",NTV
+https://stream.starplex.live/NTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/gazitv.png",Gazi TV
+https://stream.starplex.live/Gazi_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/maasrangatv.png",Maasranga TV
+https://stream.starplex.live/Maasranga_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/deshtv.png",Desh TV
+https://stream.starplex.live/Desh_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/deeptotv.png",Deepto TV
+https://stream.starplex.live/Deepto_TV/index.m3u8
 
-#EXTINF:-1, Toffee Paid Server 4
-https://cdn-tt.pages.dev/ch4.m3u8
+# --- MOVIES ---
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/sangeetbhojpuri.png",Sangeet Bhojpuri
+https://stream.starplex.live/1.7_Sangeet_Bhojpuri/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/bhojpuricinema.png",Bhojpuri Cinema
+https://stream.starplex.live/Bhojpuri_Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/colorscineplex.png",Colors Cinplex
+https://stream.starplex.live/1.8_Colors_Cinplex/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/&picturehd.png",& Picrture HD
+https://stream.starplex.live/And_Picture_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/sonymax.png",Sony Max
+https://stream.starplex.live/Sony_Max/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/sonymaxhd.png",Sony Max HD
+https://stream.starplex.live/Sony_MAX_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/sonymax2.png",Sony Max 2
+https://stream.starplex.live/Sony_MAX2/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/zeecinemahd.png",Zee Cinema HD
+https://stream.starplex.live/Zee_Cinema_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/starmovieshd.png",Star Movies HD
+https://stream.starplex.live/Star_Movies_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/starmoviesselecthd1.png",Star Movies Select HD1
+https://stream.starplex.live/Star_movies_Select_HD1/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/moviesnowhd.png",Movies Now HD
+https://stream.starplex.live/Movies_Now_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/sonypix.png",Sony PIX
+https://stream.starplex.live/Sony_PIX/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/banglaplushd.png",Bangla+ HD
+https://stream.starplex.live/Bangla_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/moviebangla.png",Movie Bangla
+https://stream.starplex.live/Movie_Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/srktv.png",SRK TV
+https://stream.starplex.live/SRK_TV/index.m3u8
 
-#EXTINF:-1, Toffee Paid Server 5
-https://cdn-tt.pages.dev/ch5.m3u8
+# --- NEWS ---
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/atnnews.png",ATN News
+https://stream.starplex.live/ATN_News/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/starnews.png",Star News
+https://stream.starplex.live/Star_News/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/news24hd.png",News24 HD
+https://stream.starplex.live/News_24_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/dbcnews.png",DBC News
+https://stream.starplex.live/DBC_News/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/channel24.png",Channel 24
+https://stream.starplex.live/Channel24/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/channeli.png",Channel I
+https://stream.starplex.live/Channel_I/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/ekattortv.png",Ekattor TV
+https://stream.starplex.live/Ekattor_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/indipendenttv.png",Indipendent TV
+https://stream.starplex.live/Indipendent_TV/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/jamunatv.png",Jamuna TV
+https://stream.starplex.live/Jamuna_TV/index.m3u8
 
+# --- KIDS & DISCOVERY ---
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/animalplanet.png",Animal Planet
+https://stream.starplex.live/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/discovery.png",Discovery
+https://stream.starplex.live/Discovery/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/discoveryhd.png",Discovery HD
+https://stream.starplex.live/Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/discoveryscience.png",Discovery Science
+https://stream.starplex.live/Discovey_Science/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/investigationdiscovery.png",Investigation Discovery
+https://stream.starplex.live/Investigation_Discovery/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/discoverykids.png",Discovery Kids
+https://stream.starplex.live/Discovery_kids/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/sonyyay.png",Sony YAY
+https://stream.starplex.live/Sony_YAY/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/cartoonnetwork.png",Cartoon Network
+https://stream.starplex.live/Cartoon_Network/index.m3u8
 
-#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
-http://198.195.239.50:8095/btv/video.m3u8
-
-
-
-
-#EXTINF:-1, CAZE TV 4K YOUTUBE
-https://stream.starplex.live/Caze_TV/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="98000" tvg-name="SOMOY TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",SOMOY TV
-https://stream.starplex.live/1.2Somoy_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, UNITE8 SPORTS 1 HD
-http://198.195.239.50:8095/unt-s/video.m3u8
-
-#EXTINF:-1, PTV SPORTS HD
-https://stream.starplex.live/1.4_PTV_Sports_HD/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1, BHOJPURI HD
-https://stream.starplex.live/1.7_Sangeet_Vojpuri/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, SANGEET BANGLA
-http://103.175.73.12:8080/live/379/379_0.m3u8
-
-#EXTINF:-1, A SPORTS HD
-https://stream.starplex.live/1.6_A_Sports_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, FIFA BANGLA
-#https://stream.starplex.live/1.5_Zee_Bangla_Sonar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, FIFA+
-#https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/787ef4f3-f4ae-46e0-8414-7d081d27ec6e/2.m3u8
-
-#EXTINF:-1, T SPORTS HD
-#http://198.195.239.50:8095/t-sports-hd4k/video.m3u8
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
+# --- MUSIC ---
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/9xm.png",9XM
+https://stream.starplex.live/9XM/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/9xmjalwa.png",9XM Jalwa
+https://stream.starplex.live/9XM_Jalwa/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.starplex.live/tv/logo/8xm.png",8XM
+https://stream.starplex.live/8X_Music/index.m3u8
