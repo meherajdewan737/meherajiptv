@@ -162,7 +162,8 @@ https://stream.starplex.live/Star_Gold_HD/index.m3u8
 https://stream.starplex.live/Sony_MAX_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="http://cdn.starplex.live/tv/logo/zeecinemahd.png" group-title="Movies",Zee Cinema HD
-https://stream.starplex.live/Zee_Cinema_HD/index.m3u8
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
+#https://stream.starplex.live/Zee_Cinema_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="http://cdn.starplex.live/tv/logo/starmovieshd.png" group-title="Movies",Star Movies HD
 https://stream.starplex.live/Star_Movies_HD/index.m3u8
