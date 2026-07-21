@@ -1,140 +1,147 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="245000" tvg-name="Al Quran" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="Infotainment",Al Quran
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
 #EXTINF:-1 tvg-id="223000" tvg-name="Islamic TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="Infotainment",Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
 #EXTINF:-1 tvg-id="169000" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Peace TV Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" group-title="Islamic",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZH543FH/20250618-224047.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Islam Bangla
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZH543FH/20250618-224047.png" group-title="Islamic",Islam Bangla
 https://live-islamtv-bangla.simplestreamcdn.com/live12/islamtv_bangla/bitrate1.isml/bitrate1-index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Iqra Bangla
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqLNkFLg/20250531-104940.png" group-title="Islamic",Iqra Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Quran TV
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3f1NQyV/20260524-024937.png" group-title="Islamic",Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Iqraa TV 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png" group-title="Islamic",Iqraa TV 
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="186000" tvg-name="News 24 HD" tvg-logo="http://cdn.starplex.live/tv/logo/news24hd.png" group-title="News",News 24 HD
+https://stream.starplex.live/News_24_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="247000" tvg-name="Independent TV" tvg-logo="http://cdn.starplex.live/tv/logo/indipendenttv.png" group-title="News",Independent TV
+https://stream.starplex.live/Indipendent_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="186000" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="News",News 24 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="http://cdn.starplex.live/tv/logo/channel9.png" group-title="Entertainment",Channel 9 HD
+https://stream.starplex.live/Channel9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="247000" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="News",Independent TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-
-
-#EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="Entertainment",Channel 9 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Entertainment",Bangla Vision
+#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="http://cdn.starplex.live/tv/logo/banglavision.png" group-title="Entertainment",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png", Ekushey TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-
-
-
 #EXTINF:-1 tvg-name="BTV HD" tvg-logo="http://cdn.starplex.live/tv/logo/btvhd.png" group-title="Entertainment",BTV HD
-https://stream.starplex.live/1.1_BTV_HD/index.m3u8
+https://stream.starplex.live/BTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/1280px-Sangsad_Television_Emblem.svg.png", Sangsad TV
+#EXTINF:-1 tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/1280px-Sangsad_Television_Emblem.svg.png",Sangsad TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="http://cdn.starplex.live/tv/logo/somoytv.png" group-title="News",Somoy TV
-https://bdixserver.tvhunter.top/ant1003/tracks-v1a1/index.m3u8
-#https://stream.starplex.live/1.2Somoy_TV/index.m3u8
+https://stream.starplex.live/Somoy_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Bangla+ HD" tvg-logo="http://cdn.starplex.live/tv/logo/banglaplushd.png" group-title="Entertainment",Bangla+ HD
-https://stream.starplex.live/Bangla_Plus_HD/index.m3u8
+https://stream.starplex.live/Bangla_Plus_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="http://cdn.starplex.live/tv/logo/moviebangla.png" group-title="Movies",Movie Bangla
-https://stream.starplex.live/Movie_Bangla/index.m3u8
+https://stream.starplex.live/Movie_Bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-logo="http://cdn.starplex.live/tv/logo/ntv.png" group-title="Entertainment",NTV
-https://stream.starplex.live/NTV/index.m3u8
+https://stream.starplex.live/NTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="http://cdn.starplex.live/tv/logo/maasrangatv.png" group-title="Entertainment",Maasranga TV
-https://stream.starplex.live/Maasranga_TV/index.m3u8
+https://stream.starplex.live/Maasranga_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Desh TV" tvg-logo="http://cdn.starplex.live/tv/logo/deshtv.png" group-title="Entertainment",Desh TV
-https://stream.starplex.live/Desh_TV/index.m3u8
+https://stream.starplex.live/Desh_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="ATN News" tvg-logo="http://cdn.starplex.live/tv/logo/atnnews.png" group-title="News",ATN News
-https://stream.starplex.live/ATN_News/index.m3u8
+https://stream.starplex.live/ATN_News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star News" tvg-logo="http://cdn.starplex.live/tv/logo/starnews.png" group-title="News",Star News
-https://stream.starplex.live/Star_News/index.m3u8
-
-#EXTINF:-1 tvg-name="News24 HD" tvg-logo="http://cdn.starplex.live/tv/logo/news24hd.png" group-title="News",News24 HD
-https://stream.starplex.live/News_24_HD/index.m3u8
+https://stream.starplex.live/Star_News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="DBC News" tvg-logo="http://cdn.starplex.live/tv/logo/dbcnews.png" group-title="News",DBC News
-https://stream.starplex.live/DBC_News/index.m3u8
+https://stream.starplex.live/DBC_News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Channel 24" tvg-logo="http://cdn.starplex.live/tv/logo/channel24.png" group-title="News",Channel 24
-https://stream.starplex.live/Channel24/index.m3u8
+https://stream.starplex.live/Channel24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Channel I" tvg-logo="http://cdn.starplex.live/tv/logo/channeli.png" group-title="Entertainment",Channel I
-https://stream.starplex.live/Channel_I/index.m3u8
+https://stream.starplex.live/Channel_I/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="http://cdn.starplex.live/tv/logo/ekattortv.png" group-title="News",Ekattor TV
-https://stream.starplex.live/Ekattor_TV/index.m3u8
-
-#EXTINF:-1 tvg-name="Indipendent TV" tvg-logo="http://cdn.starplex.live/tv/logo/indipendenttv.png" group-title="News",Indipendent TV
-https://stream.starplex.live/Indipendent_TV/index.m3u8
+https://stream.starplex.live/Ekattor_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="http://cdn.starplex.live/tv/logo/jamunatv.png" group-title="News",Jamuna TV
-https://stream.starplex.live/Jamuna_TV/index.m3u8
+https://stream.starplex.live/Jamuna_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Deepto TV" tvg-logo="http://cdn.starplex.live/tv/logo/deeptotv.png" group-title="Entertainment",Deepto TV
-https://stream.starplex.live/Deepto_TV/index.m3u8
+https://stream.starplex.live/Deepto_TV/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-name="RTV" tvg-logo="http://cdn.starplex.live/tv/logo/rtv.png" group-title="Entertainment",RTV
+https://stream.starplex.live/RTV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="http://cdn.starplex.live/tv/logo/anandatv.png" group-title="Entertainment",Ananda TV
+https://stream.starplex.live/Ananda_TV/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="http://cdn.starplex.live/tv/logo/channel1.png" group-title="Entertainment",Channel 1
+https://stream.starplex.live/Channel1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-name="Asian TV" tvg-logo="http://cdn.starplex.live/tv/logo/asiantv.png" group-title="Entertainment",Asian TV
+https://stream.starplex.live/Asian_TV/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="http://cdn.starplex.live/tv/logo/bijoytv.png" group-title="Entertainment",Bijoy TV
+https://stream.starplex.live/Bijoy_TV/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-name="Duronto TV" tvg-logo="http://cdn.starplex.live/tv/logo/durontotv.png" group-title="Kids",Duronto TV
-https://stream.starplex.live/Duronto_TV/index.m3u8
+https://stream.starplex.live/Duronto_TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="SRK TV" tvg-logo="http://cdn.starplex.live/tv/logo/srktv.png" group-title="Entertainment",SRK TV
-https://stream.starplex.live/SRK_TV/index.m3u8
-
-
-
+https://stream.starplex.live/SRK_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="http://cdn.starplex.live/tv/logo/starjalshahd.png" group-title="Entertainment",Star Jalsha HD
-https://stream.starplex.live/Star_Jalsha_HD/index.m3u8
+https://stream.starplex.live/Star_Jalsha_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="http://cdn.starplex.live/tv/logo/jalshamovieshd.png" group-title="Movies",Jalsha Movies HD
-https://stream.starplex.live/Jalsha_Movies_HD/index.m3u8
+https://stream.starplex.live/Jalsha_Movies_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="http://cdn.starplex.live/tv/logo/zeebangla.png" group-title="Entertainment",Zee Bangla HD
-https://stream.starplex.live/ZeeBangla/index.m3u8
+https://stream.starplex.live/Zee_Bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla Sonar" tvg-logo="http://cdn.starplex.live/tv/logo/zeebanglasonar.png" group-title="Entertainment",Zee Bangla Sonar
-https://stream.starplex.live/1.5_Zee_Bangla_Sonar/index.m3u8
+https://stream.starplex.live/Zee_Bangla_Sonar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="http://cdn.starplex.live/tv/logo/colorsbanglahd.png" group-title="Entertainment",Colors Bangla HD
-https://stream.starplex.live/Colors_Bangla_HD/index.m3u8
+https://stream.starplex.live/Colors_Bangla_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="http://cdn.starplex.live/tv/logo/colorsbanglacinema.png" group-title="Movies",Colors Bangla Cinema
-https://stream.starplex.live/Colors_Bangla_Cinema/index.m3u8
+https://stream.starplex.live/Colors_Bangla_Cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="http://cdn.starplex.live/tv/logo/sonyaath.png" group-title="Entertainment",Sony Aath
-https://stream.ottplus.live/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
-#https://stream.starplex.live/Sony_AATH/index.m3u8
+https://stream.starplex.live/Sony_AATH/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Enter10_Bangla" tvg-logo="http://cdn.starplex.live/tv/logo/enter10bangla.png" group-title="Entertainment",Enter10_Bangla
-https://stream.starplex.live/Enter10Bangla/index.m3u8
+https://stream.starplex.live/Enter10Bangla/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sun_Bangla_Logo_2026_01.png/1280px-Sun_Bangla_Logo_2026_01.png", SUN BANGLA
+#EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sun_Bangla_Logo_2026_01.png/1280px-Sun_Bangla_Logo_2026_01.png",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Akash Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/Aakash_Aath_Logo.png" group-title="Indian Bangla",Akash Aath
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
@@ -142,111 +149,132 @@ https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Khusbo Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Khushboo-Bangla.png" group-title="Indian Bangla",Khusbo Bangla
 http://103.175.73.12:8080/live/375/375_0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sangeet_Bangla_logo_2018.png.webp/revision/latest/scale-to-width-down/250?cb=20240322135006" group-title="Indian Bangla", Sangeet Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sangeet_Bangla_logo_2018.png.webp/revision/latest/scale-to-width-down/250?cb=20240322135006" group-title="Indian Bangla",Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Dhoom_Music_old.jpeg/revision/latest?cb=20191218152011" group-title="Indian Bangla", Dhoom
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Dhoom_Music_old.jpeg/revision/latest?cb=20191218152011" group-title="Indian Bangla",Dhoom
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Ruposhi_Bangla_new.jpeg/revision/latest?cb=20191218154322" group-title="Indian Bangla",Ruposhi Bangla
 http://103.175.73.12:8080/live/664/664_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg", Sananda TV
-https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg",Sananda TV
+#https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Colors Cinplex" tvg-logo="http://cdn.starplex.live/tv/logo/colorscineplex.png" group-title="Movies",Colors Cinplex
-https://stream.starplex.live/1.8_Colors_Cinplex/index.m3u8
+http://103.175.73.12:8080/live/29/29_0.m3u8
+#https://stream.starplex.live/1.8_Colors_Cinplex/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="http://cdn.starplex.live/tv/logo/stargoldhd.png" group-title="Movies",Star Gold HD
-https://stream.starplex.live/Star_Gold_HD/index.m3u8
+https://stream.starplex.live/Star_Gold_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="http://cdn.starplex.live/tv/logo/sonymaxhd.png" group-title="Movies",Sony Max HD
-https://stream.starplex.live/Sony_MAX_HD/index.m3u8
+https://stream.starplex.live/Sony_MAX_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="http://cdn.starplex.live/tv/logo/zeecinemahd.png" group-title="Movies",Zee Cinema HD
-https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
-#https://stream.starplex.live/Zee_Cinema_HD/index.m3u8
+https://stream.starplex.live/Zee_Cinema_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="http://cdn.starplex.live/tv/logo/starmovieshd.png" group-title="Movies",Star Movies HD
-https://stream.starplex.live/Star_Movies_HD/index.m3u8
+https://stream.starplex.live/Star_Movies_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Movies Select HD1" tvg-logo="http://cdn.starplex.live/tv/logo/starmoviesselecthd1.png" group-title="Movies",Star Movies Select HD1
-https://stream.starplex.live/Star_movies_Select_HD1/index.m3u8
+https://stream.starplex.live/Star_movies_Select_HD1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Movies Now HD" tvg-logo="http://cdn.starplex.live/tv/logo/moviesnowhd.png" group-title="Movies",Movies Now HD
-https://stream.starplex.live/Movies_Now_HD/index.m3u8
+https://stream.starplex.live/Movies_Now_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sony PIX" tvg-logo="http://cdn.starplex.live/tv/logo/sonypix.png" group-title="Movies",Sony PIX
-https://stream.starplex.live/Sony_PIX/index.m3u8
-
+https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
+#https://stream.starplex.live/Sony_PIX/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee TV" tvg-logo="http://cdn.starplex.live/tv/logo/zeetv.png" group-title="Entertainment",Zee TV
-https://stream.starplex.live/Zee_TV/index.m3u8
+https://stream.starplex.live/Zee_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Plus HD" tvg-logo="http://cdn.starplex.live/tv/logo/starplushd.png" group-title="Entertainment",Star Plus HD
-https://stream.starplex.live/Star_Plus_HD/index.m3u8
+https://stream.starplex.live/Star_Plus_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sony Entertainment" tvg-logo="http://cdn.starplex.live/tv/logo/sonyentertainment.png" group-title="Entertainment",Sony Entertainment
-https://stream.starplex.live/Sony_Entertaintment/index.m3u8
+https://stream.starplex.live/Sony_Entertaintment/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="9XM" tvg-logo="http://cdn.starplex.live/tv/logo/9xm.png" group-title="Music",9XM
-https://stream.starplex.live/9XM/index.m3u8
+https://stream.starplex.live/9XM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="9XM Jalwa" tvg-logo="http://cdn.starplex.live/tv/logo/9xmjalwa.png" group-title="Music",9XM Jalwa
-http://103.175.73.12:8080/live/161/161_0.m3u8
-#https://stream.starplex.live/9XM_Jalwa/index.m3u8
+https://stream.starplex.live/9XM_Jalwa/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="8XM" tvg-logo="http://cdn.starplex.live/tv/logo/8xm.png" group-title="Music",8XM
-https://stream.starplex.live/8X_Music/index.m3u8
+https://stream.starplex.live/8X_Music/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Rongeen TV" tvg-logo="http://cdn.starplex.live/tv/logo/rongeentv.png" group-title="Entertainment",Rongeen TV
+https://stream.starplex.live/Rongeen_TV/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Zoom Music" tvg-logo="http://cdn.starplex.live/tv/logo/zoommusic.png" group-title="Music",Zoom Music
+https://stream.starplex.live/Zoom_Music/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-name="Sangeet Bhojpuri" tvg-logo="http://cdn.starplex.live/tv/logo/sangeetbhojpuri.png" group-title="Entertainment",Sangeet Bhojpuri
-https://stream.starplex.live/1.7_Sangeet_Bhojpuri/index.m3u8
+http://103.175.73.12:8080/live/349/349_0.m3u8
+#https://stream.starplex.live/1.7_Sangeet_Bhojpuri/index.m3u8
 
 #EXTINF:-1 tvg-name="Bhojpuri Cinema" tvg-logo="http://cdn.starplex.live/tv/logo/bhojpuricinema.png" group-title="Movies",Bhojpuri Cinema
-https://stream.starplex.live/Bhojpuri_Cinema/index.m3u8
+https://stream.starplex.live/Bhojpuri_Cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://cdn.starplex.live/tv/logo/animalplanet.png" group-title="Infotainment",Animal Planet
-https://stream.starplex.live/Animal_Planet/index.m3u8
+https://stream.starplex.live/Animal_Planet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="http://cdn.starplex.live/tv/logo/nationalgeographic.png" group-title="Infotainment",National Geographic
-https://stream.starplex.live/National_Geographic/index.m3u8
+https://stream.starplex.live/National_Geographic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="http://cdn.starplex.live/tv/logo/discoveryhd.png" group-title="Infotainment",Discovery HD
-https://stream.starplex.live/Discovery_HD/index.m3u8
+https://stream.starplex.live/Discovery_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sony YAY" tvg-logo="http://cdn.starplex.live/tv/logo/sonyyay.png" group-title="Kids",Sony YAY
-https://stream.starplex.live/Sony_YAY/index.m3u8
+https://stream.starplex.live/Sony_YAY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://cdn.starplex.live/tv/logo/cartoonnetwork.png" group-title="Kids",Cartoon Network
-https://stream.starplex.live/Cartoon_Network/index.m3u8
-
-
-
+https://stream.starplex.live/Cartoon_Network/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Unite8 Sports" tvg-logo="http://cdn.starplex.live/tv/logo/unite8sportshd1.png" group-title="Sports",Unite8 Sports
-https://stream.starplex.live/1.3_Unite8_Sports/index.m3u8
+https://bdixserver.tvhunter.top/ant1001/tracks-v1a1/index.m3u8
+#https://stream.starplex.live/1.3_Unite8_Sports/index.m3u8
 
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="http://cdn.starplex.live/tv/logo/ptvsportshd.png" group-title="Sports",PTV Sports
-https://stream.starplex.live/1.4_PTV_Sports_HD/index.m3u8
-
-
+http://103.151.60.204:881/PTV/tracks-v1a1/mono.m3u8
+#https://stream.starplex.live/1.4_PTV_Sports_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="http://cdn.starplex.live/tv/logo/asportshd.png" group-title="Sports",A Sports HD
-https://stream.starplex.live/1.6_A_Sports_HD/index.m3u8
+http://103.151.60.204:881/A-Sports/tracks-v1a1/mono.m3u8
+#https://stream.starplex.live/1.6_A_Sports_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Caze TV Sports" tvg-logo="http://cdn.starplex.live/tv/logo/cazetv.png" group-title="Sports",Caze TV Sports
-https://stream.starplex.live/Caze_TV/index.m3u8
+https://stream.starplex.live/Caze_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="http://cdn.starplex.live/tv/logo/starsports1hd.png" group-title="Sports",Star Sports 1 HD
-https://stream.starplex.live/Star_Sports_1_HD/index.m3u8
+https://stream.starplex.live/Star_Sports_1_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="http://cdn.starplex.live/tv/logo/starsports2hd.png" group-title="Sports",Star Sports 2 HD
-https://stream.starplex.live/Star_Sports_2_HD/index.m3u8
+http://103.151.60.204:881/StarSports2/video.m3u8
+#https://stream.starplex.live/Star_Sports_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony Sports Ten 1" tvg-logo="http://cdn.starplex.live/tv/logo/sonysportsten1.png" group-title="Sports",Sony Sports Ten 1
-https://stream.starplex.live/Sony_Sports_Ten1/index.m3u8
+https://stream.starplex.live/Sony_Sports_Ten1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="T Sports" tvg-logo="http://cdn.starplex.live/tv/logo/tsports.png" group-title="Sports",T Sports
-https://bdixserver.tvhunter.top/ant1004/tracks-v1a1/index.m3u8
-#https://stream.starplex.live/TSports_HD/index.m3u8
+#EXTINF:-1 tvg-name="T Sports" tvg-logo="http://cdn.starplex.live/tv/logo/tsports.png" group-title="Sports",T Sports HD
+https://stream.starplex.live/TSports_HD/tracks-v1a1/mono.m3u8
+
+
+
+
+# ========================================================
+#          মেহেরাজ দেওয়ান
+# ========================================================
+
+
+
+
+
+
+
