@@ -145,7 +145,7 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Ruposhi_Bangla_new.jpeg/revision/latest?cb=20191218154322" group-title="Indian Bangla",Ruposhi Bangla
-http://103.175.73.12:8080/live/664/664_0.m3u8
+#http://103.175.73.12:8080/live/664/664_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg", Sananda TV
 https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
