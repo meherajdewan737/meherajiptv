@@ -189,7 +189,8 @@ https://stream.starplex.live/Sony_Entertaintment/index.m3u8
 https://stream.starplex.live/9XM/index.m3u8
 
 #EXTINF:-1 tvg-name="9XM Jalwa" tvg-logo="http://cdn.starplex.live/tv/logo/9xmjalwa.png" group-title="Music",9XM Jalwa
-https://stream.starplex.live/9XM_Jalwa/index.m3u8
+http://103.175.73.12:8080/live/161/161_0.m3u8
+#https://stream.starplex.live/9XM_Jalwa/index.m3u8
 
 #EXTINF:-1 tvg-name="8XM" tvg-logo="http://cdn.starplex.live/tv/logo/8xm.png" group-title="Music",8XM
 https://stream.starplex.live/8X_Music/index.m3u8
