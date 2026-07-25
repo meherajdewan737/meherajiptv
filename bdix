@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="245000" tvg-name="Al Quran" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="Infotainment",Al Quran
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 tvg-id="245000" tvg-name="Al Qura" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="Infotainment", Saudi Sunnah
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="223000" tvg-name="Islamic TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="Infotainment",Islamic TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 tvg-id="169000" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
@@ -45,8 +45,8 @@ https://stream.starplex.live/BTV/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="http://cdn.starplex.live/tv/logo/somoytv.png" group-title="News",Somoy TV
-https://stream.starplex.live/Somoy_TV/tracks-v1a1/mono.m3u8
-
+#https://stream.starplex.live/Somoy_TV/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 tvg-name="Bangla+ HD" tvg-logo="http://cdn.starplex.live/tv/logo/banglaplushd.png" group-title="Entertainment",Bangla+ HD
 https://stream.starplex.live/Bangla_Plus_HD/tracks-v1a1/mono.m3u8
 
@@ -102,8 +102,8 @@ https://stream.starplex.live/Channel1/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-name="Asian TV" tvg-logo="http://cdn.starplex.live/tv/logo/asiantv.png" group-title="Entertainment",Asian TV
-https://stream.starplex.live/Asian_TV/tracks-v1a1/mono.m3u8
-
+#https://stream.starplex.live/Asian_TV/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="http://cdn.starplex.live/tv/logo/bijoytv.png" group-title="Entertainment",Bijoy TV
 https://stream.starplex.live/Bijoy_TV/tracks-v1a1/mono.m3u8
