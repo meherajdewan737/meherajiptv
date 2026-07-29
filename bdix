@@ -153,7 +153,7 @@ http://103.175.73.12:8080/live/375/375_0.m3u8
 http://103.175.73.12:8080/live/379/379_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Dhoom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Dhoom_Music_old.jpeg/revision/latest?cb=20191218152011" group-title="Indian Bangla",Dhoom
-http://103.175.73.12:8080/live/379/379_0.m3u8
+http://103.175.73.12:8080/live/378/378_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Ruposhi_Bangla_new.jpeg/revision/latest?cb=20191218154322" group-title="Indian Bangla",Ruposhi Bangla
 http://103.175.73.12:8080/live/664/664_0.m3u8
@@ -199,7 +199,7 @@ https://stream.starplex.live/Sony_Entertaintment/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="9XM" tvg-logo="http://cdn.starplex.live/tv/logo/9xm.png" group-title="Music",9XM
 https://stream.starplex.live/9XM/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="9XM Jalwa" tvg-logo="http://cdn.starplex.live/tv/logo/9xmjalwa.png" group-title="Music",9XM Jalwa
+#EXTINF:-1 tvg-name="9X Jalwa" tvg-logo="http://cdn.starplex.live/tv/logo/9xmjalwa.png" group-title="Music",9XM Jalwa
 https://stream.starplex.live/9XM_Jalwa/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="8XM" tvg-logo="http://cdn.starplex.live/tv/logo/8xm.png" group-title="Music",8XM
@@ -238,15 +238,14 @@ https://stream.starplex.live/Sony_YAY/tracks-v1a1/mono.m3u8
 https://stream.starplex.live/Cartoon_Network/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Unite8 Sports" tvg-logo="http://cdn.starplex.live/tv/logo/unite8sportshd1.png" group-title="Sports",Unite8 Sports
-https://bdixserver.tvhunter.top/ant1001/tracks-v1a1/index.m3u8
-#https://stream.starplex.live/1.3_Unite8_Sports/index.m3u8
+https://stream.starplex.live/Unite8_Sports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="PTV Sports" tvg-logo="http://cdn.starplex.live/tv/logo/ptvsportshd.png" group-title="Sports",PTV Sports
 http://103.151.60.204:881/PTV/tracks-v1a1/mono.m3u8
 #https://stream.starplex.live/1.4_PTV_Sports_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="http://cdn.starplex.live/tv/logo/asportshd.png" group-title="Sports",A Sports HD
-http://103.151.60.204:881/A-Sports/tracks-v1a1/mono.m3u8
+#http://103.151.60.204:881/A-Sports/tracks-v1a1/mono.m3u8
 #https://stream.starplex.live/1.6_A_Sports_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Caze TV Sports" tvg-logo="http://cdn.starplex.live/tv/logo/cazetv.png" group-title="Sports",Caze TV Sports
@@ -256,8 +255,7 @@ https://stream.starplex.live/Caze_TV/tracks-v1a1/mono.m3u8
 https://stream.starplex.live/Star_Sports_1_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="http://cdn.starplex.live/tv/logo/starsports2hd.png" group-title="Sports",Star Sports 2 HD
-http://103.151.60.204:881/StarSports2/video.m3u8
-#https://stream.starplex.live/Star_Sports_2_HD/index.m3u8
+http://103.151.61.12/STAR_SPORTS2/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0\
 
 #EXTINF:-1 tvg-name="Sony Sports Ten 1" tvg-logo="http://cdn.starplex.live/tv/logo/sonysportsten1.png" group-title="Sports",Sony Sports Ten 1
 https://stream.starplex.live/Sony_Sports_Ten1/tracks-v1a1/mono.m3u8
