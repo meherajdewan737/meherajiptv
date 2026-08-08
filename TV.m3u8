@@ -1,208 +1,248 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/btvhd.png" group-title="Bangla",BTV HD
-https://stream.starplex.live/BTV/index.m3u8
+#EXTINF:-1 tvg-id="T-SPORTS-HD" tvg-name="T-SPORTS-HD" tvg-logo="http://10.10.10.10/channel_logo/T-SPORTS-HD.png?v=1782854988" group-title="Sports",T-SPORTS-HD
+http://10.10.10.10/proxy/T-SPORTS-HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/ntv.png" group-title="Bangla",NTV
-https://stream.starplex.live/NTV/index.m3u8
+#EXTINF:-1 tvg-id="STAR.SPORTS1.HD" tvg-name="STAR.SPORTS1.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.SPORTS1.HD.png?v=1782854987" group-title="Sports",STAR.SPORTS1.HD
+http://10.10.10.10/proxy/STAR.SPORTS1.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/maasrangatv.png" group-title="Bangla",Maasranga TV
-https://stream.starplex.live/Maasranga_TV/index.m3u8
+#EXTINF:-1 tvg-id="STAR.SPORTS2.HD" tvg-name="STAR.SPORTS2.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.SPORTS2.HD.png?v=1782854987" group-title="Sports",STAR.SPORTS2.HD
+http://10.10.10.10/proxy/STAR.SPORTS2.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/deshtv.png" group-title="Bangla",Desh TV
-https://stream.starplex.live/Desh_TV/index.m3u8
+#EXTINF:-1 tvg-id="STAR.SPORTS.SEL.2.HD" tvg-name="STAR.SPORTS.SEL.2.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.SPORTS.SEL.2.HD.png?v=1782854987" group-title="Sports",STAR.SPORTS.SEL.2.HD
+http://10.10.10.10/proxy/STAR.SPORTS.SEL.2.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/bijoytv.png" group-title="Bangla",Bijoy TV
-https://stream.starplex.live/Bijoy_TV/index.m3u8
+#EXTINF:-1 tvg-id="STAR.SPORTS-SEL1.HD" tvg-name="STAR.SPORTS-SEL1.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.SPORTS-SEL1.HD.png?v=1782854987" group-title="Sports",STAR.SPORTS-SEL1.HD
+http://10.10.10.10/proxy/STAR.SPORTS-SEL1.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/channel9.png" group-title="Bangla",Channel 9
-https://stream.starplex.live/Channel9/index.m3u8
+#EXTINF:-1 tvg-id="SONY.SPORTS2.HD" tvg-name="SONY.SPORTS2.HD" tvg-logo="http://10.10.10.10/channel_logo/SONY.SPORTS2.HD.png?v=1782854987" group-title="Sports",SONY.SPORTS2.HD
+http://10.10.10.10/proxy/SONY.SPORTS2.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/anandatv.png" group-title="Bangla",Ananda TV
-https://stream.starplex.live/Ananda_TV/index.m3u8
+#EXTINF:-1 tvg-id="SONY.SPORTS.3" tvg-name="SONY.SPORTS.3" tvg-logo="http://10.10.10.10/channel_logo/SONY.SPORTS.3.png?v=1782854987" group-title="Sports",SONY.SPORTS.3
+http://10.10.10.10/proxy/SONY.SPORTS.3/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/channel1.png" group-title="Bangla",Channel 1
-https://stream.starplex.live/Channel1/index.m3u8
+#EXTINF:-1 tvg-id="STAR-SPORTS.3" tvg-name="STAR-SPORTS.3" tvg-logo="http://10.10.10.10/channel_logo/STAR-SPORTS.3.png?v=1782854987" group-title="Sports",STAR-SPORTS.3
+http://10.10.10.10/proxy/STAR-SPORTS.3/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/rtv.png" group-title="Bangla",RTV
-https://stream.starplex.live/RTV/index.m3u8
+#EXTINF:-1 tvg-id="EUROSPORTS.HD" tvg-name="EUROSPORTS.HD" tvg-logo="http://10.10.10.10/channel_logo/EUROSPORTS.HD.png?v=1782854987" group-title="Sports",EUROSPORTS.HD
+http://10.10.10.10/proxy/EUROSPORTS.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/channeli.png" group-title="Bangla",Channel I
-https://stream.starplex.live/Channel_I/index.m3u8
+#EXTINF:-1 tvg-id="SONY.SPORTS.4" tvg-name="SONY.SPORTS.4" tvg-logo="http://10.10.10.10/channel_logo/SONY.SPORTS.4.png?v=1782854987" group-title="Sports",SONY.SPORTS.4
+http://10.10.10.10/proxy/SONY.SPORTS.4/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/deeptotv.png" group-title="Bangla",Deepto TV
-https://stream.starplex.live/Deepto_TV/index.m3u8
+#EXTINF:-1 tvg-id="SONY.SPORTS.1HD" tvg-name="SONY.SPORTS.1HD" tvg-logo="http://10.10.10.10/channel_logo/SONY.SPORTS.1HD.png?v=1782854987" group-title="Sports",SONY.SPORTS.1HD
+http://10.10.10.10/proxy/SONY.SPORTS.1HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/banglatv.png" group-title="Bangla",Bangla TV
-https://stream.starplex.live/Bangla_TV/index.m3u8
+#EXTINF:-1 tvg-id="FAST.SPORTS.HD" tvg-name="FAST.SPORTS.HD" tvg-logo="http://10.10.10.10/channel_logo/FAST.SPORTS.HD.png?v=1782854987" group-title="Sports",FAST.SPORTS.HD
+http://10.10.10.10/proxy/FAST.SPORTS.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/banglavision.png" group-title="Bangla",Bangla Vision
-https://stream.starplex.live/Bangla_Vision/index.m3u8
+#EXTINF:-1 tvg-id="A.SPORTS.HD" tvg-name="A.SPORTS.HD" tvg-logo="http://10.10.10.10/channel_logo/A.SPORTS.HD.png?v=1782854986" group-title="Sports",A.SPORTS.HD
+http://10.10.10.10/proxy/A.SPORTS.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/srktv.png" group-title="Bangla",SRK TV
-https://stream.starplex.live/SRK_TV/index.m3u8
+#EXTINF:-1 tvg-id="PTV-SPORTS-HD" tvg-name="PTV-SPORTS-HD" tvg-logo="http://10.10.10.10/channel_logo/PTV-SPORTS-HD.jpg?v=1782854987" group-title="Sports",PTV-SPORTS-HD
+http://10.10.10.10/proxy/PTV-SPORTS-HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/somoytv.png" group-title="News",Somoy TV
-https://stream.starplex.live/Somoy_TV/index.m3u8
+#EXTINF:-1 tvg-id="SONY-SPORTS.5HD" tvg-name="SONY-SPORTS.5HD" tvg-logo="http://10.10.10.10/channel_logo/SONY-SPORTS.5HD.png?v=1782854987" group-title="Sports",SONY-SPORTS.5HD
+http://10.10.10.10/proxy/SONY-SPORTS.5HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/atnnews.png" group-title="News",ATN News
-https://stream.starplex.live/ATN_News/index.m3u8
+#EXTINF:-1 tvg-id="COLORS.BANGLA.HD" tvg-name="COLORS.BANGLA.HD" tvg-logo="http://10.10.10.10/channel_logo/COLORS.BANGLA.HD.png?v=1782854987" group-title="Bangla",COLORS.BANGLA.HD
+http://10.10.10.10/proxy/COLORS.BANGLA.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/starnews.png" group-title="News",Star News
-https://stream.starplex.live/Star_News/index.m3u8
+#EXTINF:-1 tvg-id="ZEE.BANGLA.HD" tvg-name="ZEE.BANGLA.HD" tvg-logo="http://10.10.10.10/channel_logo/ZEE.BANGLA.HD.png?v=1782854988" group-title="Bangla",ZEE.BANGLA.HD
+http://10.10.10.10/proxy/ZEE.BANGLA.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/news24hd.png" group-title="News",News24 HD
-https://stream.starplex.live/News_24_HD/index.m3u8
+#EXTINF:-1 tvg-id="SUN.BANGLA.HD" tvg-name="SUN.BANGLA.HD" tvg-logo="http://10.10.10.10/channel_logo/SUN.BANGLA.HD.png?v=1782854988" group-title="Bangla",SUN.BANGLA.HD
+http://10.10.10.10/proxy/SUN.BANGLA.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/dbcnews.png" group-title="News",DBC News
-https://stream.starplex.live/DBC_News/index.m3u8
+#EXTINF:-1 tvg-id="STAR.JALSHA.HD" tvg-name="STAR.JALSHA.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.JALSHA.HD.png?v=1782854987" group-title="Bangla",STAR.JALSHA.HD
+http://10.10.10.10/proxy/STAR.JALSHA.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/channel24.png" group-title="News",Channel 24
-https://stream.starplex.live/Channel24/index.m3u8
+#EXTINF:-1 tvg-id="DURANTA.TV.HD" tvg-name="DURANTA.TV.HD" tvg-logo="http://10.10.10.10/channel_logo/DURANTA.TV.HD.png?v=1782854987" group-title="Bangla",DURANTA.TV.HD
+http://10.10.10.10/proxy/DURANTA.TV.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/ekattortv.png" group-title="News",Ekattor TV
-https://stream.starplex.live/Ekattor_TV/index.m3u8
+#EXTINF:-1 tvg-id="JAMUNA.TV" tvg-name="JAMUNA.TV" tvg-logo="http://10.10.10.10/channel_logo/JAMUNA.TV.png?v=1782854987" group-title="Bangla",JAMUNA.TV
+http://10.10.10.10/proxy/JAMUNA.TV/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/indipendenttv.png" group-title="News",Indipendent TV
-https://stream.starplex.live/Indipendent_TV/index.m3u8
+#EXTINF:-1 tvg-id="INDEPENDENT.TV" tvg-name="INDEPENDENT.TV" tvg-logo="http://10.10.10.10/channel_logo/INDEPENDENT.TV.png?v=1782854987" group-title="Bangla",INDEPENDENT.TV
+http://10.10.10.10/proxy/INDEPENDENT.TV/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/jamunatv.png" group-title="News",Jamuna TV
-https://stream.starplex.live/Jamuna_TV/index.m3u8
+#EXTINF:-1 tvg-id="MASRANGA.TV.HD" tvg-name="MASRANGA.TV.HD" tvg-logo="http://10.10.10.10/channel_logo/MASRANGA.TV.HD.png?v=1782854987" group-title="Bangla",MASRANGA.TV.HD
+http://10.10.10.10/proxy/MASRANGA.TV.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/aljazeera.png" group-title="News",Al Jazeera
-https://stream.starplex.live/Al_Jazeera/index.m3u8
+#EXTINF:-1 tvg-id="SOMOY.TV.HD" tvg-name="SOMOY.TV.HD" tvg-logo="http://10.10.10.10/channel_logo/SOMOY.TV.HD.png?v=1782854987" group-title="Bangla",SOMOY.TV.HD
+http://10.10.10.10/proxy/SOMOY.TV.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/starjalshahd.png" group-title="Entertainment",Star Jalsha HD
-https://stream.starplex.live/Star_Jalsha_HD/index.m3u8
+#EXTINF:-1 tvg-id="ATN.BANGLA.HD" tvg-name="ATN.BANGLA.HD" tvg-logo="http://10.10.10.10/channel_logo/ATN.BANGLA.HD.png?v=1782854986" group-title="Bangla",ATN.BANGLA.HD
+http://10.10.10.10/proxy/ATN.BANGLA.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/zeebangla.png" group-title="Entertainment",Zee Bangla
-https://stream.starplex.live/Zee_Bangla/index.m3u8
+#EXTINF:-1 tvg-id="CHANNEL.I.HD" tvg-name="CHANNEL.I.HD" tvg-logo="http://10.10.10.10/channel_logo/CHANNEL.I.HD.png?v=1782854987" group-title="Bangla",CHANNEL.I.HD
+http://10.10.10.10/proxy/CHANNEL.I.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/colorsbanglahd.png" group-title="Entertainment",Colors Bangla HD
-https://stream.starplex.live/Colors_Bangla_HD/index.m3u8
+#EXTINF:-1 tvg-id="CHANNEL.24.HD" tvg-name="CHANNEL.24.HD" tvg-logo="http://10.10.10.10/channel_logo/CHANNEL.24.HD.png?v=1782854987" group-title="Bangla",CHANNEL.24.HD
+http://10.10.10.10/proxy/CHANNEL.24.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/sonyaath.png" group-title="Entertainment",Sony Aath
-https://stream.starplex.live/Sony_AATH/index.m3u8
+#EXTINF:-1 tvg-id="ENTER10.BANGLA" tvg-name="ENTER10.BANGLA" tvg-logo="http://10.10.10.10/channel_logo/ENTER10.BANGLA.png?v=1782854987" group-title="Bangla",ENTER10.BANGLA
+http://10.10.10.10/proxy/ENTER10.BANGLA/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/enter10bangla.png" group-title="Entertainment",Enter10 Bangla
-https://stream.starplex.live/Enter10Bangla/index.m3u8
+#EXTINF:-1 tvg-id="Lotus.TV.HD" tvg-name="Lotus.TV.HD" tvg-logo="http://10.10.10.10/channel_logo/Lotus.TV.HD.png?v=1782854987" group-title="Bangla",Lotus.TV.HD
+http://10.10.10.10/proxy/Lotus.TV.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/sunbangla.png" group-title="Entertainment",Sun Bangla
-https://stream.starplex.live/Sun_Bangla/index.m3u8
+#EXTINF:-1 tvg-id="ANT.PICTURS.HD" tvg-name="ANT.PICTURS.HD" tvg-logo="http://10.10.10.10/channel_logo/ANT.PICTURS.HD.png?v=1782854986" group-title="Movies",ANT.PICTURS.HD
+http://10.10.10.10/proxy/ANT.PICTURS.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/sanandatv.png" group-title="Entertainment",Sananda TV
-https://stream.starplex.live/Sananda_TV/index.m3u8
+#EXTINF:-1 tvg-id="COLORS.CINEPLEX.HD" tvg-name="COLORS.CINEPLEX.HD" tvg-logo="http://10.10.10.10/channel_logo/COLORS.CINEPLEX.HD.png?v=1782854987" group-title="Movies",COLORS.CINEPLEX.HD
+http://10.10.10.10/proxy/COLORS.CINEPLEX.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/rongeentv.png" group-title="Entertainment",Rongeen TV
-https://stream.starplex.live/Rongeen_TV/index.m3u8
+#EXTINF:-1 tvg-id="ZEE.CINEMA.HD" tvg-name="ZEE.CINEMA.HD" tvg-logo="http://10.10.10.10/channel_logo/ZEE.CINEMA.HD.png?v=1782854988" group-title="Movies",ZEE.CINEMA.HD
+http://10.10.10.10/proxy/ZEE.CINEMA.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/banglaplushd.png" group-title="Bangla",Bangla+ HD
-https://stream.starplex.live/Bangla_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-id="JALSHA.MOVIES.HD" tvg-name="JALSHA.MOVIES.HD" tvg-logo="http://10.10.10.10/channel_logo/JALSHA.MOVIES.HD.png?v=1782854987" group-title="Movies",JALSHA.MOVIES.HD
+http://10.10.10.10/proxy/JALSHA.MOVIES.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/zeebanglasonar.png" group-title="Bangla",Zee Bangla Sonar
-https://stream.starplex.live/Zee_Bangla_Sonar/index.m3u8
+#EXTINF:-1 tvg-id="STAR.GOLD.HD" tvg-name="STAR.GOLD.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.GOLD.HD.png?v=1782854987" group-title="Movies",STAR.GOLD.HD
+http://10.10.10.10/proxy/STAR.GOLD.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/zeetv.png" group-title="Entertainment",Zee TV
-https://stream.starplex.live/Zee_TV/index.m3u8
+#EXTINF:-1 tvg-id="SONY.MAX.HD" tvg-name="SONY.MAX.HD" tvg-logo="http://10.10.10.10/channel_logo/SONY.MAX.HD.png?v=1782854987" group-title="Movies",SONY.MAX.HD
+http://10.10.10.10/proxy/SONY.MAX.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/starplushd.png" group-title="Entertainment",Star Plus HD
-https://stream.starplex.live/Star_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-id="STAR.MOVIES.SEL.HD" tvg-name="STAR.MOVIES.SEL.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.MOVIES.SEL.HD.png?v=1782854987" group-title="Movies",STAR.MOVIES.SEL.HD
+http://10.10.10.10/proxy/STAR.MOVIES.SEL.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/sonyentertainment.png" group-title="Entertainment",Sony Entertainment
-https://stream.starplex.live/Sony_Entertaintment/index.m3u8
+#EXTINF:-1 tvg-id="SONY.PIX.HD" tvg-name="SONY.PIX.HD" tvg-logo="http://10.10.10.10/channel_logo/SONY.PIX.HD.png?v=1782854987" group-title="Movies",SONY.PIX.HD
+http://10.10.10.10/proxy/SONY.PIX.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/sonysab.png" group-title="Entertainment",Sony SAB
-https://stream.starplex.live/Sony_SAB/index.m3u8
+#EXTINF:-1 tvg-id="MNX.HD" tvg-name="MNX.HD" tvg-logo="http://10.10.10.10/channel_logo/MNX.HD.png?v=1782854987" group-title="Movies",MNX.HD
+http://10.10.10.10/proxy/MNX.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/colorsinfinity.png" group-title="Entertainment",Colors Infinity
-https://stream.starplex.live/Colors_Infinity/index.m3u8
+#EXTINF:-1 tvg-id="ROMEDY.NOW" tvg-name="ROMEDY.NOW" tvg-logo="http://10.10.10.10/channel_logo/ROMEDY.NOW.png?v=1782854987" group-title="Movies",ROMEDY.NOW
+http://10.10.10.10/proxy/ROMEDY.NOW/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/stargoldhd.png" group-title="Movies",Star Gold HD
-https://stream.starplex.live/Star_Gold_HD/index.m3u8
+#EXTINF:-1 tvg-id="STAR.MOVIES.HD" tvg-name="STAR.MOVIES.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.MOVIES.HD.png?v=1782854987" group-title="Movies",STAR.MOVIES.HD
+http://10.10.10.10/proxy/STAR.MOVIES.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/sonymaxhd.png" group-title="Movies",Sony Max HD
-https://stream.starplex.live/Sony_MAX_HD/index.m3u8
+#EXTINF:-1 tvg-id="MOVIES.NOW.HD" tvg-name="MOVIES.NOW.HD" tvg-logo="http://10.10.10.10/channel_logo/MOVIES.NOW.HD.png?v=1782854987" group-title="Movies",MOVIES.NOW.HD
+http://10.10.10.10/proxy/MOVIES.NOW.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/zeecinemahd.png" group-title="Movies",Zee Cinema HD
-https://stream.starplex.live/Zee_Cinema_HD/index.m3u8
+#EXTINF:-1 tvg-id="AND.PRIVE.HD" tvg-name="AND.PRIVE.HD" tvg-logo="http://10.10.10.10/channel_logo/AND.PRIVE.HD.png?v=1782854986" group-title="Movies",AND.PRIVE.HD
+http://10.10.10.10/proxy/AND.PRIVE.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/colorscineplex.png" group-title="Movies",Colors Cineplex
-https://stream.starplex.live/Colors_Cineplex/index.m3u8
+#EXTINF:-1 tvg-id="ZEE.BANGLA.CINEMA" tvg-name="ZEE.BANGLA.CINEMA" tvg-logo="http://10.10.10.10/channel_logo/ZEE.BANGLA.CINEMA.png?v=1782854988" group-title="Movies",ZEE.BANGLA.CINEMA
+http://10.10.10.10/proxy/ZEE.BANGLA.CINEMA/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/starmovieshd.png" group-title="Movies",Star Movies HD
-https://stream.starplex.live/Star_Movies_HD/index.m3u8
+#EXTINF:-1 tvg-id="COLORS.BANGLA.CINEMA" tvg-name="COLORS.BANGLA.CINEMA" tvg-logo="http://10.10.10.10/channel_logo/COLORS.BANGLA.CINEMA.png?v=1782854987" group-title="Movies",COLORS.BANGLA.CINEMA
+http://10.10.10.10/proxy/COLORS.BANGLA.CINEMA/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/starmoviesselecthd1.png" group-title="Movies",Star Movies Select HD1
-https://stream.starplex.live/Star_movies_Select_HD1/index.m3u8
+#EXTINF:-1 tvg-id="STAR.GOLD.SEL.HD" tvg-name="STAR.GOLD.SEL.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.GOLD.SEL.HD.png?v=1782854987" group-title="Movies",STAR.GOLD.SEL.HD
+http://10.10.10.10/proxy/STAR.GOLD.SEL.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/moviesnowhd.png" group-title="Movies",Movies Now HD
-https://stream.starplex.live/Movies_Now_HD/index.m3u8
+#EXTINF:-1 tvg-id="COLORS.HD" tvg-name="COLORS.HD" tvg-logo="http://10.10.10.10/channel_logo/COLORS.HD.png?v=1782854987" group-title="Entertainment",COLORS.HD
+http://10.10.10.10/proxy/COLORS.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/moviebangla.png" group-title="Movies",Movie Bangla
-https://stream.starplex.live/Movie_Bangla/index.m3u8
+#EXTINF:-1 tvg-id="ZEE.TV.HD" tvg-name="ZEE.TV.HD" tvg-logo="http://10.10.10.10/channel_logo/ZEE.TV.HD.png?v=1782854988" group-title="Entertainment",ZEE.TV.HD
+http://10.10.10.10/proxy/ZEE.TV.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/jalshamovieshd.png" group-title="Movies",Jalsha Movies HD
-https://stream.starplex.live/Jalsha_Movies_HD/index.m3u8
+#EXTINF:-1 tvg-id="SONY.ENT.HD" tvg-name="SONY.ENT.HD" tvg-logo="http://10.10.10.10/channel_logo/SONY.ENT.HD.png?v=1782854987" group-title="Entertainment",SONY.ENT.HD
+http://10.10.10.10/proxy/SONY.ENT.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/colorsbanglacinema.png" group-title="Movies",Colors Bangla Cinema
-https://stream.starplex.live/Colors_Bangla_Cinema/index.m3u8
+#EXTINF:-1 tvg-id="STAR.PLUS.HD" tvg-name="STAR.PLUS.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.PLUS.HD.png?v=1782854987" group-title="Entertainment",STAR.PLUS.HD
+http://10.10.10.10/proxy/STAR.PLUS.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/bhojpuricinema.png" group-title="Movies",Bhojpuri Cinema
-https://stream.starplex.live/Bhojpuri_Cinema/index.m3u8
+#EXTINF:-1 tvg-id="ZEE.CAFE.HD" tvg-name="ZEE.CAFE.HD" tvg-logo="http://10.10.10.10/channel_logo/ZEE.CAFE.HD.png?v=1782854988" group-title="Entertainment",ZEE.CAFE.HD
+http://10.10.10.10/proxy/ZEE.CAFE.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/sonyyay.png" group-title="Kids",Sony YAY
-https://stream.starplex.live/Sony_YAY/index.m3u8
+#EXTINF:-1 tvg-id="SONY.AAT" tvg-name="SONY.AAT" tvg-logo="http://10.10.10.10/channel_logo/SONY.AAT.png?v=1782854987" group-title="Entertainment",SONY.AAT
+http://10.10.10.10/proxy/SONY.AAT/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/cartoonnetwork.png" group-title="Kids",Cartoon Network
-https://stream.starplex.live/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-id="HUM.MASALA.TV" tvg-name="HUM.MASALA.TV" tvg-logo="http://10.10.10.10/channel_logo/HUM.MASALA.TV.png?v=1782854987" group-title="Entertainment",HUM.MASALA.TV
+http://10.10.10.10/proxy/HUM.MASALA.TV/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/durontotv.png" group-title="Kids",Duronto TV
-https://stream.starplex.live/Duronto_TV/index.m3u8
+#EXTINF:-1 tvg-id="AXN.HD" tvg-name="AXN.HD" tvg-logo="http://10.10.10.10/channel_logo/AXN.HD.png?v=1782854986" group-title="Entertainment",AXN.HD
+http://10.10.10.10/proxy/AXN.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/animalplanet.png" group-title="Infotainment",Animal Planet
-https://stream.starplex.live/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="STAR.BHARAT.HD" tvg-name="STAR.BHARAT.HD" tvg-logo="http://10.10.10.10/channel_logo/STAR.BHARAT.HD.png?v=1782854987" group-title="Entertainment",STAR.BHARAT.HD
+http://10.10.10.10/proxy/STAR.BHARAT.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/nationalgeographic.png" group-title="Infotainment",National Geographic
-https://stream.starplex.live/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="BBC.NEWS" tvg-name="BBC.NEWS" tvg-logo="http://10.10.10.10/channel_logo/BBC.NEWS.png?v=1782854986" group-title="News",BBC.NEWS
+http://10.10.10.10/proxy/BBC.NEWS/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/discoveryhd.png" group-title="Infotainment",Discovery HD
-https://stream.starplex.live/Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-id="ALJAZEERA.HD" tvg-name="ALJAZEERA.HD" tvg-logo="http://10.10.10.10/channel_logo/ALJAZEERA.HD.png?v=1782854986" group-title="News",ALJAZEERA.HD
+http://10.10.10.10/proxy/ALJAZEERA.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/9xm.png" group-title="Music",9XM
-https://stream.starplex.live/9XM/index.m3u8
+#EXTINF:-1 tvg-id="GEO.NEWS.HD" tvg-name="GEO.NEWS.HD" tvg-logo="http://10.10.10.10/channel_logo/GEO.NEWS.HD.png?v=1782854987" group-title="News",GEO.NEWS.HD
+http://10.10.10.10/proxy/GEO.NEWS.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/9xmjalwa.png" group-title="Music",9XM Jalwa
-https://stream.starplex.live/9XM_Jalwa/index.m3u8
+#EXTINF:-1 tvg-id="ATN.NEWS.HD" tvg-name="ATN.NEWS.HD" tvg-logo="http://10.10.10.10/channel_logo/ATN.NEWS.HD.png?v=1782854986" group-title="News",ATN.NEWS.HD
+http://10.10.10.10/proxy/ATN.NEWS.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/8xm.png" group-title="Music",8XM
-https://stream.starplex.live/8X_Music/index.m3u8
+#EXTINF:-1 tvg-id="SONY.BBC.EARTH.HD" tvg-name="SONY.BBC.EARTH.HD" tvg-logo="http://10.10.10.10/channel_logo/SONY.BBC.EARTH.HD.png?v=1782854987" group-title="Documentary",SONY.BBC.EARTH.HD
+http://10.10.10.10/proxy/SONY.BBC.EARTH.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/zoommusic.png" group-title="Music",Zoom Music
-https://stream.starplex.live/Zoom_Music/index.m3u8
+#EXTINF:-1 tvg-id="TLC.HD" tvg-name="TLC.HD" tvg-logo="http://10.10.10.10/channel_logo/TLC.HD.png?v=1782854988" group-title="Documentary",TLC.HD
+http://10.10.10.10/proxy/TLC.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/tsports.png" group-title="Sports",T Sports
-https://stream.starplex.live/TSports_HD/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY.TV.18.HD" tvg-name="HISTORY.TV.18.HD" tvg-logo="http://10.10.10.10/channel_logo/HISTORY.TV.18.HD.png?v=1782854987" group-title="Documentary",HISTORY.TV.18.HD
+http://10.10.10.10/proxy/HISTORY.TV.18.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/starsports1hd.png" group-title="Sports",Star Sports 1 HD
-https://stream.starplex.live/Star_Sports_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY.HD" tvg-name="DISCOVERY.HD" tvg-logo="http://10.10.10.10/channel_logo/DISCOVERY.HD.png?v=1782854987" group-title="Documentary",DISCOVERY.HD
+http://10.10.10.10/proxy/DISCOVERY.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/sonysportsten1.png" group-title="Sports",Sony Sports Ten 1
-https://stream.starplex.live/Sony_Sports_Ten1/index.m3u8
+#EXTINF:-1 tvg-id="NATGEO.WILD.HD" tvg-name="NATGEO.WILD.HD" tvg-logo="http://10.10.10.10/channel_logo/NATGEO.WILD.HD.png?v=1782854987" group-title="Documentary",NATGEO.WILD.HD
+http://10.10.10.10/proxy/NATGEO.WILD.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/cazetv.png" group-title="Sports",Caze TV Sports
-https://stream.starplex.live/Caze_TV/index.m3u8
+#EXTINF:-1 tvg-id="NATGEO.HD" tvg-name="NATGEO.HD" tvg-logo="http://10.10.10.10/channel_logo/NATGEO.HD.png?v=1782854987" group-title="Documentary",NATGEO.HD
+http://10.10.10.10/proxy/NATGEO.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/eurosport.png" group-title="Sports",Euro Sport
-https://stream.starplex.live/Euro_Sport/index.m3u8
+#EXTINF:-1 tvg-id="ANIMAL.PLANET.HD" tvg-name="ANIMAL.PLANET.HD" tvg-logo="http://10.10.10.10/channel_logo/ANIMAL.PLANET.HD.png?v=1782854986" group-title="Documentary",ANIMAL.PLANET.HD
+http://10.10.10.10/proxy/ANIMAL.PLANET.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/ddsports.png" group-title="Sports",DD Sports
-https://stream.starplex.live/DD_Sports/index.m3u8
+#EXTINF:-1 tvg-id="XPLOR.HD" tvg-name="XPLOR.HD" tvg-logo="http://10.10.10.10/channel_logo/XPLOR.HD.png?v=1782854988" group-title="Documentary",XPLOR.HD
+http://10.10.10.10/proxy/XPLOR.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/unite8sports1.png" group-title="Sports",Unite8 Sports 1
-https://stream.starplex.live/Unite8_Sports1/index.m3u8
+#EXTINF:-1 tvg-id="TRAVELXP.HD" tvg-name="TRAVELXP.HD" tvg-logo="http://10.10.10.10/channel_logo/TRAVELXP.HD.png?v=1782854988" group-title="Documentary",TRAVELXP.HD
+http://10.10.10.10/proxy/TRAVELXP.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/unite8sports2.png" group-title="Sports",Unite8 Sports 2
-https://stream.starplex.live/Unite8_Sports2/index.m3u8
+#EXTINF:-1 tvg-id="BBC.Earth.HD" tvg-name="BBC.Earth.HD" tvg-logo="http://10.10.10.10/channel_logo/BBC.Earth.HD.png?v=1782854986" group-title="Documentary",BBC.Earth.HD
+http://10.10.10.10/proxy/BBC.Earth.HD/video.m3u8?session=meherajiptv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://fifa.starplex.live/logo/ptvsportshd.png" group-title="Sports",PTV Sports
-https://stream.starplex.live/PTV_Sports_HD/index.m3u8
+#EXTINF:-1 tvg-id="CARTON.NETWORK.HD" tvg-name="CARTON.NETWORK.HD" tvg-logo="http://10.10.10.10/channel_logo/CARTON.NETWORK.HD.png?v=1782854987" group-title="Kids",CARTON.NETWORK.HD
+http://10.10.10.10/proxy/CARTON.NETWORK.HD/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="SONIC" tvg-name="SONIC" tvg-logo="http://10.10.10.10/channel_logo/SONIC.png?v=1782854987" group-title="Kids",SONIC
+http://10.10.10.10/proxy/SONIC/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="NICK" tvg-name="NICK" tvg-logo="http://10.10.10.10/channel_logo/NICK.png?v=1782854987" group-title="Kids",NICK
+http://10.10.10.10/proxy/NICK/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="POGO" tvg-name="POGO" tvg-logo="http://10.10.10.10/channel_logo/POGO.png?v=1782854987" group-title="Kids",POGO
+http://10.10.10.10/proxy/POGO/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="HUNGAMA" tvg-name="HUNGAMA" tvg-logo="http://10.10.10.10/channel_logo/HUNGAMA.png?v=1782854987" group-title="Kids",HUNGAMA
+http://10.10.10.10/proxy/HUNGAMA/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="ETV.BAL.BHARAT" tvg-name="ETV.BAL.BHARAT" tvg-logo="http://10.10.10.10/channel_logo/ETV.BAL.BHARAT.png?v=1782854987" group-title="Kids",ETV.BAL.BHARAT
+http://10.10.10.10/proxy/ETV.BAL.BHARAT/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="NICK.JR" tvg-name="NICK.JR" tvg-logo="http://10.10.10.10/channel_logo/NICK.JR.png?v=1782854987" group-title="Kids",NICK.JR
+http://10.10.10.10/proxy/NICK.JR/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="SUPER.HUNGAMA" tvg-name="SUPER.HUNGAMA" tvg-logo="http://10.10.10.10/channel_logo/SUPER.HUNGAMA.png?v=1782854988" group-title="Kids",SUPER.HUNGAMA
+http://10.10.10.10/proxy/SUPER.HUNGAMA/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="SONY.YAY" tvg-name="SONY.YAY" tvg-logo="http://10.10.10.10/channel_logo/SONY.YAY.png?v=1782854987" group-title="Kids",SONY.YAY
+http://10.10.10.10/proxy/SONY.YAY/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="ZOOM.MUSIC" tvg-name="ZOOM.MUSIC" tvg-logo="http://10.10.10.10/channel_logo/ZOOM.MUSIC.png?v=1782854988" group-title="Music",ZOOM.MUSIC
+http://10.10.10.10/proxy/ZOOM.MUSIC/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="ZING.MUSIC" tvg-name="ZING.MUSIC" tvg-logo="http://10.10.10.10/channel_logo/ZING.MUSIC.png?v=1782854988" group-title="Music",ZING.MUSIC
+http://10.10.10.10/proxy/ZING.MUSIC/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="MADANI.TV.HD" tvg-name="MADANI.TV.HD" tvg-logo="http://10.10.10.10/channel_logo/MADANI.TV.HD.png?v=1782854987" group-title="Religious",MADANI.TV.HD
+http://10.10.10.10/proxy/MADANI.TV.HD/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="PEACE.TV.BANGLA.HD" tvg-name="PEACE.TV.BANGLA.HD" tvg-logo="http://10.10.10.10/channel_logo/PEACE.TV.BANGLA.HD.png?v=1782854987" group-title="Religious",PEACE.TV.BANGLA.HD
+http://10.10.10.10/proxy/PEACE.TV.BANGLA.HD/video.m3u8?session=meherajiptv
+
+#EXTINF:-1 tvg-id="MN.PLUS.HD" tvg-name="MN.PLUS.HD" group-title="Uncategorized",MN.PLUS.HD
+http://10.10.10.10/proxy/MN.PLUS.HD/video.m3u8?session=meherajiptv
+
